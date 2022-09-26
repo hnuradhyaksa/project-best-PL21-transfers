@@ -1,0 +1,495 @@
+,index,club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season,player_id
+0,12888,Bayern Munich,Dayot Upamecano,22,Centre-Back,RB Leipzig,€42.50m,in,Summer,42.5,Bundesliga,2021,2021/2022,90
+1,12889,Bayern Munich,Marcel Sabitzer,27,Central Midfield,RB Leipzig,€15.00m,in,Summer,15,Bundesliga,2021,2021/2022,80
+2,12910,RB Leipzig,André Silva,25,Centre-Forward,E. Frankfurt,€23.00m,in,Summer,23,Bundesliga,2021,2021/2022,87
+3,12911,RB Leipzig,Josko Gvardiol,19,Centre-Back,Dinamo Zagreb,€18.80m,in,Summer,18.8,Bundesliga,2021,2021/2022,86
+4,12912,RB Leipzig,Angeliño,24,Left-Back,Man City,€18.00m,in,Summer,18,Bundesliga,2021,2021/2022,85
+5,12913,RB Leipzig,Ilaix Moriba,18,Central Midfield,Barcelona B,€16.00m,in,Summer,16,Bundesliga,2021,2021/2022,83
+6,12914,RB Leipzig,Mohamed Simakan,21,Centre-Back,R. Strasbourg,€15.00m,in,Summer,15,Bundesliga,2021,2021/2022,80
+7,12915,RB Leipzig,Benjamin Henrichs,24,Right-Back,Monaco,€15.00m,in,Summer,15,Bundesliga,2021,2021/2022,80
+8,12916,RB Leipzig,Caden Clark,18,Attacking Midfield,New York RB,€1.82m,in,Summer,1.82,Bundesliga,2021,2021/2022,40
+9,12939,Borussia Dortmund,Donyell Malen,22,Centre-Forward,PSV Eindhoven,€30.00m,in,Summer,30,Bundesliga,2021,2021/2022,89
+10,12940,Borussia Dortmund,Gregor Kobel,23,Goalkeeper,VfB Stuttgart,€15.00m,in,Summer,15,Bundesliga,2021,2021/2022,80
+11,12955,VfL Wolfsburg,Sebastiaan Bornauw,22,Centre-Back,1. FC Köln,€13.50m,in,Summer,13.5,Bundesliga,2021,2021/2022,78
+12,12956,VfL Wolfsburg,Luca Waldschmidt,25,Second Striker,Benfica,€12.00m,in,Summer,12,Bundesliga,2021,2021/2022,76
+13,12957,VfL Wolfsburg,Aster Vranckx,18,Central Midfield,KV Mechelen,€8.00m,in,Summer,8,Bundesliga,2021,2021/2022,72
+14,12958,VfL Wolfsburg,Lukas Nmecha,22,Centre-Forward,Man City,€8.00m,in,Summer,8,Bundesliga,2021,2021/2022,72
+15,12959,VfL Wolfsburg,Maximilian Philipp,27,Second Striker,Dynamo Moscow,€7.50m,in,Summer,7.5,Bundesliga,2021,2021/2022,69
+16,12960,VfL Wolfsburg,Micky van de Ven,20,Centre-Back,FC Volendam,€3.50m,in,Summer,3.5,Bundesliga,2021,2021/2022,53
+17,12991,Eintracht Frankfurt,Jesper Lindström,21,Attacking Midfield,Bröndby IF,€7.00m,in,Summer,7,Bundesliga,2021,2021/2022,66
+18,12992,Eintracht Frankfurt,Sam Lammers,24,Centre-Forward,Atalanta BC,Loan fee:€3.60m,in,Summer,3.6,Bundesliga,2021,2021/2022,55
+19,12993,Eintracht Frankfurt,Jens Petter Hauge,21,Right Winger,AC Milan,Loan fee:€2.00m,in,Summer,2,Bundesliga,2021,2021/2022,41
+20,12994,Eintracht Frankfurt,Igor Matanovic,18,Centre-Forward,FC St. Pauli,€500Th.,in,Summer,0.5,Bundesliga,2021,2021/2022,19
+21,12995,Eintracht Frankfurt,Jens Grahl,32,Goalkeeper,VfB Stuttgart,€250Th.,in,Summer,0.25,Bundesliga,2021,2021/2022,8
+22,12996,Eintracht Frankfurt,Diant Ramaj,19,Goalkeeper,1.FC Heidenheim,€100Th.,in,Summer,0.1,Bundesliga,2021,2021/2022,3
+23,13028,Bayer 04 Leverkusen,Odilon Kossounou,20,Centre-Back,Club Brugge,€23.00m,in,Summer,23,Bundesliga,2021,2021/2022,87
+24,13029,Bayer 04 Leverkusen,Amine Adli,21,Right Winger,Toulouse,€7.50m,in,Summer,7.5,Bundesliga,2021,2021/2022,69
+25,13030,Bayer 04 Leverkusen,Mitchel Bakker,21,Left-Back,Paris SG,€7.00m,in,Summer,7,Bundesliga,2021,2021/2022,66
+26,13031,Bayer 04 Leverkusen,Robert Andrich,26,Central Midfield,Union Berlin,€6.50m,in,Summer,6.5,Bundesliga,2021,2021/2022,63
+27,13032,Bayer 04 Leverkusen,Piero Hincapié,19,Centre-Back,CA Talleres,€6.35m,in,Summer,6.35,Bundesliga,2021,2021/2022,62
+28,13033,Bayer 04 Leverkusen,Zidan Sertdemir,16,Central Midfield,Nordsjaell. U19,€2.50m,in,Summer,2.5,Bundesliga,2021,2021/2022,46
+29,13051,1.FC Union Berlin,Taiwo Awoniyi,23,Centre-Forward,Liverpool,€8.55m,in,Summer,8.55,Bundesliga,2021,2021/2022,74
+30,13052,1.FC Union Berlin,Tymoteusz Puchacz,22,Left-Back,Lech Poznan,€2.50m,in,Summer,2.5,Bundesliga,2021,2021/2022,46
+31,13053,1.FC Union Berlin,Leon Dajaku,20,Second Striker,FC Bayern II,€1.50m,in,Summer,1.5,Bundesliga,2021,2021/2022,36
+32,13054,1.FC Union Berlin,Frederik Rönnow,28,Goalkeeper,E. Frankfurt,€1.00m,in,Summer,1,Bundesliga,2021,2021/2022,32
+33,13055,1.FC Union Berlin,Kevin Möhwald,28,Central Midfield,Werder Bremen,€1.00m,in,Summer,1,Bundesliga,2021,2021/2022,32
+34,13056,1.FC Union Berlin,Keita Endo,23,Left Winger,Yokohama F. M.,€900Th.,in,Summer,0.9,Bundesliga,2021,2021/2022,29
+35,13057,1.FC Union Berlin,Rick van Drongelen,22,Centre-Back,Hamburger SV,€500Th.,in,Summer,0.5,Bundesliga,2021,2021/2022,19
+36,13058,1.FC Union Berlin,Julius Kade,22,Central Midfield,Dynamo Dresden,€500Th.,in,Summer,0.5,Bundesliga,2021,2021/2022,19
+37,13091,Borussia Mönchengladbach,Hannes Wolf,22,Attacking Midfield,RB Leipzig,€9.50m,in,Summer,9.5,Bundesliga,2021,2021/2022,75
+38,13092,Borussia Mönchengladbach,Luca Netz,18,Left-Back,Hertha BSC,€2.00m,in,Summer,2,Bundesliga,2021,2021/2022,41
+39,13112,VfB Stuttgart,Florian Müller,23,Goalkeeper,1.FSV Mainz 05,€5.00m,in,Summer,5,Bundesliga,2021,2021/2022,59
+40,13113,VfB Stuttgart,Wahid Faghir,18,Centre-Forward,Vejle BK,€3.50m,in,Summer,3.5,Bundesliga,2021,2021/2022,53
+41,13114,VfB Stuttgart,Chris Führich,23,Right Winger,SC Paderborn,€2.50m,in,Summer,2.5,Bundesliga,2021,2021/2022,46
+42,13115,VfB Stuttgart,Enzo Millot,19,Central Midfield,Monaco,€1.75m,in,Summer,1.75,Bundesliga,2021,2021/2022,38
+43,13116,VfB Stuttgart,Naouirou Ahamada,19,Defensive Midfield,Juventus U23,€1.50m,in,Summer,1.5,Bundesliga,2021,2021/2022,36
+44,13117,VfB Stuttgart,Hiroki Ito,22,Centre-Back,Júbilo Iwata,Loan fee:€100Th.,in,Summer,0.1,Bundesliga,2021,2021/2022,3
+45,13136,SC Freiburg,Maximilian Eggestein,24,Central Midfield,Werder Bremen,€5.00m,in,Summer,5,Bundesliga,2021,2021/2022,59
+46,13175,1.FSV Mainz 05,Anton Stach,22,Defensive Midfield,Greuther Fürth,€3.50m,in,Summer,3.5,Bundesliga,2021,2021/2022,53
+47,13176,1.FSV Mainz 05,Silvan Widmer,28,Right-Back,FC Basel,€2.50m,in,Summer,2.5,Bundesliga,2021,2021/2022,46
+48,13177,1.FSV Mainz 05,Marcus Ingvartsen,25,Centre-Forward,Union Berlin,Loan fee:€600Th.,in,Summer,0.6,Bundesliga,2021,2021/2022,24
+49,13203,FC Augsburg,Niklas Dorsch,23,Defensive Midfield,KAA Gent,€7.00m,in,Summer,7,Bundesliga,2021,2021/2022,66
+50,13204,FC Augsburg,Arne Maier,22,Central Midfield,Hertha BSC,Loan fee:€500Th.,in,Summer,0.5,Bundesliga,2021,2021/2022,19
+51,13205,FC Augsburg,Daniel Klein,20,Goalkeeper,Hoffenheim II,€200Th.,in,Summer,0.2,Bundesliga,2021,2021/2022,6
+52,13225,Hertha BSC,Suat Serdar,24,Central Midfield,FC Schalke 04,€8.00m,in,Summer,8,Bundesliga,2021,2021/2022,72
+53,13226,Hertha BSC,Marco Richter,23,Right Winger,FC Augsburg,€7.10m,in,Summer,7.1,Bundesliga,2021,2021/2022,68
+54,13227,Hertha BSC,Myziane Maolida,22,Left Winger,OGC Nice,€4.00m,in,Summer,4,Bundesliga,2021,2021/2022,56
+55,13228,Hertha BSC,Jurgen Ekkelenkamp,21,Central Midfield,Ajax,€3.00m,in,Summer,3,Bundesliga,2021,2021/2022,50
+56,13229,Hertha BSC,Oliver Christensen,22,Goalkeeper,Odense BK,€3.00m,in,Summer,3,Bundesliga,2021,2021/2022,50
+57,13230,Hertha BSC,Ishak Belfodil,29,Centre-Forward,TSG Hoffenheim,€500Th.,in,Summer,0.5,Bundesliga,2021,2021/2022,19
+58,13250,Arminia Bielefeld,Robin Hack,22,Left Winger,1.FC Nuremberg,€2.50m,in,Summer,2.5,Bundesliga,2021,2021/2022,46
+59,13251,Arminia Bielefeld,Guilherme Ramos,23,Centre-Back,Feirense,€1.20m,in,Summer,1.2,Bundesliga,2021,2021/2022,35
+60,13252,Arminia Bielefeld,Florian Krüger,22,Centre-Forward,Erzgebirge Aue,€1.00m,in,Summer,1,Bundesliga,2021,2021/2022,32
+61,13253,Arminia Bielefeld,Masaya Okugawa,25,Attacking Midfield,RB Salzburg,€1.00m,in,Summer,1,Bundesliga,2021,2021/2022,32
+62,13254,Arminia Bielefeld,Bryan Lasme,22,Right Winger,FC Sochaux,€800Th.,in,Summer,0.8,Bundesliga,2021,2021/2022,27
+63,13255,Arminia Bielefeld,Patrick Wimmer,20,Right Winger,Austria Vienna,€700Th.,in,Summer,0.7,Bundesliga,2021,2021/2022,25
+64,13256,Arminia Bielefeld,Stefanos Kapino,27,Goalkeeper,Werder Bremen,€300Th.,in,Summer,0.3,Bundesliga,2021,2021/2022,11
+65,13257,Arminia Bielefeld,Lennart Czyborra,22,Left-Back,Genoa,Loan fee:€85Th.,in,Summer,0.085,Bundesliga,2021,2021/2022,1
+66,13292,1. FC Köln,Luca Kilian,21,Centre-Back,1.FSV Mainz 05,Loan fee:€250Th.,in,Summer,0.25,Bundesliga,2021,2021/2022,8
+67,13344,SpVgg Greuther Fürth,Jeremy Dudziak,25,Attacking Midfield,Hamburger SV,€750Th.,in,Summer,0.75,Bundesliga,2021,2021/2022,26
+68,13345,SpVgg Greuther Fürth,Nick Viergever,32,Centre-Back,PSV Eindhoven,€300Th.,in,Summer,0.3,Bundesliga,2021,2021/2022,11
+69,13346,SpVgg Greuther Fürth,Sebastian Griesbeck,30,Centre-Back,Union Berlin,€250Th.,in,Summer,0.25,Bundesliga,2021,2021/2022,8
+70,13384,VfL Wolfsburg,Jonas Wind,22,Centre-Forward,FC Copenhagen,€12.00m,in,Winter,12,Bundesliga,2021,2021/2022,76
+71,13385,VfL Wolfsburg,Kevin Paredes,18,Left Midfield,D.C. United,€6.68m,in,Winter,6.68,Bundesliga,2021,2021/2022,64
+72,13386,VfL Wolfsburg,Max Kruse,33,Second Striker,Union Berlin,€5.00m,in,Winter,5,Bundesliga,2021,2021/2022,59
+73,13395,Eintracht Frankfurt,Ansgar Knauff,20,Right Winger,Bor. Dortmund,Loan fee:€400Th.,in,Winter,0.4,Bundesliga,2021,2021/2022,14
+74,13400,Bayer 04 Leverkusen,Sardar Azmoun,27,Centre-Forward,Zenit S-Pb,€2.50m,in,Winter,2.5,Bundesliga,2021,2021/2022,46
+75,13405,1.FC Union Berlin,Sven Michel,31,Centre-Forward,SC Paderborn,€2.50m,in,Winter,2.5,Bundesliga,2021,2021/2022,46
+76,13406,1.FC Union Berlin,András Schäfer,22,Central Midfield,Dunajska Streda,€1.00m,in,Winter,1,Bundesliga,2021,2021/2022,32
+77,13407,1.FC Union Berlin,Dominique Heintz,28,Centre-Back,SC Freiburg,€150Th.,in,Winter,0.15,Bundesliga,2021,2021/2022,5
+78,13415,Borussia Mönchengladbach,Marvin Friedrich,26,Centre-Back,Union Berlin,€5.50m,in,Winter,5.5,Bundesliga,2021,2021/2022,61
+79,13419,VfB Stuttgart,Tiago Tomás,19,Centre-Forward,Sporting CP,Loan fee:€500Th.,in,Winter,0.5,Bundesliga,2021,2021/2022,19
+80,13425,SC Freiburg,Hugo Siquet,19,Right-Back,Standard Liège,€4.50m,in,Winter,4.5,Bundesliga,2021,2021/2022,57
+81,13441,1.FSV Mainz 05,Delano Burgzorg,23,Left Winger,Heracles Almelo,Loan fee:€300Th.,in,Winter,0.3,Bundesliga,2021,2021/2022,11
+82,13447,FC Augsburg,Ricardo Pepi,18,Centre-Forward,Dallas,€16.36m,in,Winter,16.36,Bundesliga,2021,2021/2022,84
+83,13449,Hertha BSC,Dong-jun Lee,24,Right Winger,Ulsan Hyundai,€800Th.,in,Winter,0.8,Bundesliga,2021,2021/2022,27
+84,13450,Hertha BSC,Marc Oliver Kempf,26,Centre-Back,VfB Stuttgart,€500Th.,in,Winter,0.5,Bundesliga,2021,2021/2022,19
+85,13451,Hertha BSC,Kelian Nsona,19,Right Winger,SM Caen,€500Th.,in,Winter,0.5,Bundesliga,2021,2021/2022,19
+86,13461,Arminia Bielefeld,George Bello,20,Left-Back,Atlanta,€1.80m,in,Winter,1.8,Bundesliga,2021,2021/2022,39
+87,13462,Arminia Bielefeld,Burak Ince,18,Central Midfield,Altinordu,€500Th.,in,Winter,0.5,Bundesliga,2021,2021/2022,19
+88,13468,1. FC Köln,Julian Chabot,23,Centre-Back,Sampdoria,Loan fee:€300Th.,in,Winter,0.3,Bundesliga,2021,2021/2022,11
+89,13483,SpVgg Greuther Fürth,Tobias Raschl,21,Central Midfield,Bor. Dortmund,€100Th.,in,Winter,0.1,Bundesliga,2021,2021/2022,3
+90,22292,Arsenal FC,Ben White,23,Centre-Back,Brighton,€58.50m,in,Summer,58.5,Premier League,2021,2021/2022,96
+91,22293,Arsenal FC,Martin Ødegaard,22,Attacking Midfield,Real Madrid,€35.00m,in,Summer,35,Premier League,2021,2021/2022,89
+92,22294,Arsenal FC,Aaron Ramsdale,23,Goalkeeper,Sheff Utd,€28.00m,in,Summer,28,Premier League,2021,2021/2022,79
+93,22295,Arsenal FC,Takehiro Tomiyasu,22,Right-Back,Bologna,€18.60m,in,Summer,18.6,Premier League,2021,2021/2022,71
+94,22296,Arsenal FC,Albert Sambi Lokonga,21,Central Midfield,RSC Anderlecht,€17.50m,in,Summer,17.5,Premier League,2021,2021/2022,66
+95,22297,Arsenal FC,Nuno Tavares,21,Left-Back,Benfica,€8.00m,in,Summer,8,Premier League,2021,2021/2022,39
+96,22315,Aston Villa,Emiliano Buendía,24,Right Winger,Norwich,€38.40m,in,Summer,38.4,Premier League,2021,2021/2022,91
+97,22316,Aston Villa,Leon Bailey,23,Left Winger,Bay. Leverkusen,€32.00m,in,Summer,32,Premier League,2021,2021/2022,88
+98,22317,Aston Villa,Danny Ings,29,Centre-Forward,Southampton,€29.42m,in,Summer,29.42,Premier League,2021,2021/2022,82
+99,22340,Brentford FC,Kristoffer Ajer,23,Centre-Back,Celtic,€15.70m,in,Summer,15.7,Premier League,2021,2021/2022,61
+100,22341,Brentford FC,Yoane Wissa,24,Left Winger,FC Lorient,€10.00m,in,Summer,10,Premier League,2021,2021/2022,45
+101,22342,Brentford FC,Frank Onyeka,23,Central Midfield,FC Midtjylland,€10.00m,in,Summer,10,Premier League,2021,2021/2022,45
+102,22343,Brentford FC,Álvaro Fernández,23,Goalkeeper,SD Huesca,Loan fee:€1.00m,in,Summer,1,Premier League,2021,2021/2022,3
+103,22361,Brighton & Hove Albion,Enock Mwepu,23,Central Midfield,RB Salzburg,€23.00m,in,Summer,23,Premier League,2021,2021/2022,74
+104,22362,Brighton & Hove Albion,Marc Cucurella,23,Left-Back,Getafe,€18.00m,in,Summer,18,Premier League,2021,2021/2022,70
+105,22363,Brighton & Hove Albion,Abdallah Sima,20,Right Winger,Slavia Prague,€8.00m,in,Summer,8,Premier League,2021,2021/2022,39
+106,22364,Brighton & Hove Albion,Kjell Scherpen,21,Goalkeeper,Ajax,€5.00m,in,Summer,5,Premier League,2021,2021/2022,26
+107,22365,Brighton & Hove Albion,Kaoru Mitoma,24,Left Winger,Kawasaki Front.,€3.00m,in,Summer,3,Premier League,2021,2021/2022,16
+108,22400,Burnley FC,Maxwel Cornet,24,Left Winger,Olympique Lyon,€15.00m,in,Summer,15,Premier League,2021,2021/2022,58
+109,22401,Burnley FC,Nathan Collins,20,Centre-Back,Stoke City,€14.00m,in,Summer,14,Premier League,2021,2021/2022,55
+110,22402,Burnley FC,Connor Roberts,25,Right-Back,Swansea,€2.90m,in,Summer,2.9,Premier League,2021,2021/2022,14
+111,22411,Chelsea FC,Romelu Lukaku,28,Centre-Forward,Inter,€113.00m,in,Summer,113,Premier League,2021,2021/2022,98
+112,22412,Chelsea FC,Saúl Ñíguez,26,Central Midfield,Atlético Madrid,Loan fee:€5.00m,in,Summer,5,Premier League,2021,2021/2022,26
+113,22452,Crystal Palace,Marc Guéhi,21,Centre-Back,Chelsea U23,€23.34m,in,Summer,23.34,Premier League,2021,2021/2022,75
+114,22453,Crystal Palace,Joachim Andersen,25,Centre-Back,Olympique Lyon,€17.50m,in,Summer,17.5,Premier League,2021,2021/2022,66
+115,22454,Crystal Palace,Odsonne Edouard,23,Centre-Forward,Celtic,€16.30m,in,Summer,16.3,Premier League,2021,2021/2022,62
+116,22455,Crystal Palace,Michael Olise,19,Right Midfield,Reading,€9.30m,in,Summer,9.3,Premier League,2021,2021/2022,41
+117,22456,Crystal Palace,Will Hughes,26,Central Midfield,Watford,€7.00m,in,Summer,7,Premier League,2021,2021/2022,34
+118,22474,Everton FC,Demarai Gray,25,Left Winger,Bay. Leverkusen,€2.00m,in,Summer,2,Premier League,2021,2021/2022,10
+119,22495,Leeds United,Daniel James,23,Right Winger,Man Utd,€29.10m,in,Summer,29.1,Premier League,2021,2021/2022,80
+120,22496,Leeds United,Junior Firpo,24,Left-Back,Barcelona,€15.00m,in,Summer,15,Premier League,2021,2021/2022,58
+121,22497,Leeds United,Jack Harrison,24,Left Winger,Man City,€12.80m,in,Summer,12.8,Premier League,2021,2021/2022,54
+122,22498,Leeds United,Kristoffer Klaesson,20,Goalkeeper,Vålerenga,€2.00m,in,Summer,2,Premier League,2021,2021/2022,10
+123,22519,Leicester City,Patson Daka,22,Centre-Forward,RB Salzburg,€30.00m,in,Summer,30,Premier League,2021,2021/2022,85
+124,22520,Leicester City,Boubakary Soumaré,22,Defensive Midfield,LOSC Lille,€20.00m,in,Summer,20,Premier League,2021,2021/2022,73
+125,22521,Leicester City,Jannik Vestergaard,29,Centre-Back,Southampton,€17.60m,in,Summer,17.6,Premier League,2021,2021/2022,68
+126,22534,Liverpool FC,Ibrahima Konaté,22,Centre-Back,RB Leipzig,€40.00m,in,Summer,40,Premier League,2021,2021/2022,92
+127,22556,Manchester City,Jack Grealish,25,Left Winger,Aston Villa,€117.50m,in,Summer,117.5,Premier League,2021,2021/2022,99
+128,22586,Manchester United,Jadon Sancho,21,Left Winger,Bor. Dortmund,€85.00m,in,Summer,85,Premier League,2021,2021/2022,97
+129,22587,Manchester United,Raphaël Varane,28,Centre-Back,Real Madrid,€40.00m,in,Summer,40,Premier League,2021,2021/2022,92
+130,22588,Manchester United,Cristiano Ronaldo,36,Centre-Forward,Juventus,€15.00m,in,Summer,15,Premier League,2021,2021/2022,58
+131,22613,Newcastle United,Joe Willock,21,Central Midfield,Arsenal,€29.40m,in,Summer,29.4,Premier League,2021,2021/2022,81
+132,22626,Norwich City,Christos Tzolis,19,Left Winger,PAOK Salonika,€11.00m,in,Summer,11,Premier League,2021,2021/2022,49
+133,22627,Norwich City,Milot Rashica,25,Right Winger,Werder Bremen,€11.00m,in,Summer,11,Premier League,2021,2021/2022,49
+134,22628,Norwich City,Josh Sargent,21,Centre-Forward,Werder Bremen,€9.50m,in,Summer,9.5,Premier League,2021,2021/2022,43
+135,22629,Norwich City,Ben Gibson,28,Centre-Back,Burnley,€9.30m,in,Summer,9.3,Premier League,2021,2021/2022,41
+136,22630,Norwich City,Dimitrios Giannoulis,25,Left-Back,PAOK Salonika,€7.50m,in,Summer,7.5,Premier League,2021,2021/2022,36
+137,22631,Norwich City,Angus Gunn,25,Goalkeeper,Southampton,€5.85m,in,Summer,5.85,Premier League,2021,2021/2022,31
+138,22632,Norwich City,Ozan Kabak,21,Centre-Back,FC Schalke 04,Loan fee:€4.00m,in,Summer,4,Premier League,2021,2021/2022,22
+139,22633,Norwich City,Pierre Lees-Melou,28,Central Midfield,OGC Nice,€3.90m,in,Summer,3.9,Premier League,2021,2021/2022,20
+140,22634,Norwich City,Mathias Normann,25,Defensive Midfield,Rostov,Loan fee:€2.00m,in,Summer,2,Premier League,2021,2021/2022,10
+141,22676,Southampton FC,Adam Armstrong,24,Centre-Forward,Blackburn,€17.70m,in,Summer,17.7,Premier League,2021,2021/2022,69
+142,22677,Southampton FC,Romain Perraud,23,Left-Back,Stade Brestois,€12.00m,in,Summer,12,Premier League,2021,2021/2022,53
+143,22678,Southampton FC,Lyanco,24,Centre-Back,Torino,€7.50m,in,Summer,7.5,Premier League,2021,2021/2022,36
+144,22679,Southampton FC,Tino Livramento,18,Right-Back,Chelsea U23,€5.90m,in,Summer,5.9,Premier League,2021,2021/2022,32
+145,22697,Tottenham Hotspur,Emerson Royal,22,Right-Back,Barcelona,€25.00m,in,Summer,25,Premier League,2021,2021/2022,77
+146,22698,Tottenham Hotspur,Bryan Gil,20,Left Winger,Sevilla FC,€25.00m,in,Summer,25,Premier League,2021,2021/2022,77
+147,22699,Tottenham Hotspur,Pape Matar Sarr,18,Central Midfield,FC Metz,€16.90m,in,Summer,16.9,Premier League,2021,2021/2022,63
+148,22721,Watford FC,Imrân Louza,22,Central Midfield,FC Nantes,€10.00m,in,Summer,10,Premier League,2021,2021/2022,45
+149,22722,Watford FC,Emmanuel Dennis,23,Centre-Forward,Club Brugge,€4.00m,in,Summer,4,Premier League,2021,2021/2022,22
+150,22723,Watford FC,Moussa Sissoko,32,Central Midfield,Spurs,€3.50m,in,Summer,3.5,Premier League,2021,2021/2022,18
+151,22724,Watford FC,Ozan Tufan,26,Central Midfield,Fenerbahce,Loan fee:€1.00m,in,Summer,1,Premier League,2021,2021/2022,3
+152,22725,Watford FC,Mattie Pollock,19,Centre-Back,Grimsby Town,€300Th.,in,Summer,0.3,Premier League,2021,2021/2022,1
+153,22767,West Ham United,Kurt Zouma,26,Centre-Back,Chelsea,€35.00m,in,Summer,35,Premier League,2021,2021/2022,89
+154,22768,West Ham United,Nikola Vlasic,23,Attacking Midfield,CSKA Moscow,€30.00m,in,Summer,30,Premier League,2021,2021/2022,85
+155,22769,West Ham United,Alex Kral,23,Defensive Midfield,Spartak Moscow,Loan fee:€5.20m,in,Summer,5.2,Premier League,2021,2021/2022,29
+156,22770,West Ham United,Craig Dawson,31,Centre-Back,Watford,€2.30m,in,Summer,2.3,Premier League,2021,2021/2022,13
+157,22771,West Ham United,Alphonse Areola,28,Goalkeeper,Paris SG,Loan fee:€2.00m,in,Summer,2,Premier League,2021,2021/2022,10
+158,22781,Wolverhampton Wanderers,Rayan Aït-Nouri,20,Left-Back,Angers SCO,€11.10m,in,Summer,11.1,Premier League,2021,2021/2022,52
+159,22782,Wolverhampton Wanderers,José Sá,28,Goalkeeper,Olympiacos,€8.00m,in,Summer,8,Premier League,2021,2021/2022,39
+160,22783,Wolverhampton Wanderers,Francisco Trincão,21,Right Winger,Barcelona,Loan fee:€6.00m,in,Summer,6,Premier League,2021,2021/2022,33
+161,22784,Wolverhampton Wanderers,Yerson Mosquera,20,Centre-Back,Atl. Nacional,€5.20m,in,Summer,5.2,Premier League,2021,2021/2022,29
+162,22785,Wolverhampton Wanderers,Bendegúz Bolla,21,Right-Back,Fehérvár,€2.00m,in,Summer,2,Premier League,2021,2021/2022,10
+163,22811,Arsenal FC,Auston Trusty,23,Centre-Back,Colorado,€1.82m,in,Winter,1.82,Premier League,2021,2021/2022,7
+164,22820,Aston Villa,Lucas Digne,28,Left-Back,Everton,€30.00m,in,Winter,30,Premier League,2021,2021/2022,85
+165,22847,Brighton & Hove Albion,Kacper Kozlowski,18,Central Midfield,Pogon Szczecin,€11.00m,in,Winter,11,Premier League,2021,2021/2022,49
+166,22848,Brighton & Hove Albion,Deniz Undav,25,Centre-Forward,Union SG,€7.00m,in,Winter,7,Premier League,2021,2021/2022,34
+167,22863,Burnley FC,Wout Weghorst,29,Centre-Forward,VfL Wolfsburg,€17.50m,in,Winter,17.5,Premier League,2021,2021/2022,66
+168,22867,Crystal Palace,Jean-Philippe Mateta,24,Centre-Forward,1.FSV Mainz 05,€11.00m,in,Winter,11,Premier League,2021,2021/2022,49
+169,22868,Crystal Palace,Luke Plange,19,Centre-Forward,Derby,€1.18m,in,Winter,1.18,Premier League,2021,2021/2022,5
+170,22873,Everton FC,Vitaliy Mykolenko,22,Left-Back,Dynamo Kyiv,€23.50m,in,Winter,23.5,Premier League,2021,2021/2022,76
+171,22874,Everton FC,Nathan Patterson,20,Right-Back,Rangers,€14.00m,in,Winter,14,Premier League,2021,2021/2022,55
+172,22885,Liverpool FC,Luis Díaz,25,Left Winger,FC Porto,€47.00m,in,Winter,47,Premier League,2021,2021/2022,95
+173,22889,Manchester City,Julián Álvarez,22,Centre-Forward,River Plate,€17.00m,in,Winter,17,Premier League,2021,2021/2022,64
+174,22905,Newcastle United,Bruno Guimarães,24,Defensive Midfield,Olympique Lyon,€42.10m,in,Winter,42.1,Premier League,2021,2021/2022,94
+175,22906,Newcastle United,Kieran Trippier,31,Right-Back,Atlético Madrid,€30.00m,in,Winter,30,Premier League,2021,2021/2022,85
+176,22907,Newcastle United,Chris Wood,30,Centre-Forward,Burnley,€30.00m,in,Winter,30,Premier League,2021,2021/2022,85
+177,22908,Newcastle United,Dan Burn,29,Centre-Back,Brighton,€15.00m,in,Winter,15,Premier League,2021,2021/2022,58
+178,22934,Tottenham Hotspur,Rodrigo Bentancur,24,Central Midfield,Juventus,€19.00m,in,Winter,19,Premier League,2021,2021/2022,72
+179,22935,Tottenham Hotspur,Dejan Kulusevski,21,Right Winger,Juventus,Loan fee:€10.00m,in,Winter,10,Premier League,2021,2021/2022,45
+180,22943,Watford FC,Maduka Okoye,22,Goalkeeper,Sparta R.,€5.00m,in,Winter,5,Premier League,2021,2021/2022,26
+181,22944,Watford FC,Samir,27,Centre-Back,Udinese Calcio,€5.00m,in,Winter,5,Premier League,2021,2021/2022,26
+182,22945,Watford FC,Edo Kayembe,23,Defensive Midfield,KAS Eupen,€4.70m,in,Winter,4.7,Premier League,2021,2021/2022,24
+183,22946,Watford FC,Hassane Kamara,27,Left-Back,OGC Nice,€4.00m,in,Winter,4,Premier League,2021,2021/2022,22
+184,22947,Watford FC,Yaser Asprilla,18,Attacking Midfield,Envigado,€3.00m,in,Winter,3,Premier League,2021,2021/2022,16
+185,22948,Watford FC,Samuel Kalu,24,Right Winger,G. Bordeaux,€3.00m,in,Winter,3,Premier League,2021,2021/2022,16
+186,22962,Wolverhampton Wanderers,Chiquinho,21,Left Winger,Estoril Praia,€3.50m,in,Winter,3.5,Premier League,2021,2021/2022,18
+187,22963,Wolverhampton Wanderers,Sang-bin Jeong,19,Right Winger,Suwon Bluewings,€1.20m,in,Winter,1.2,Premier League,2021,2021/2022,6
+188,22964,Wolverhampton Wanderers,Hayao Kawabe,26,Central Midfield,Grasshoppers,€600Th.,in,Winter,0.6,Premier League,2021,2021/2022,2
+189,16015,Atlético de Madrid,Rodrigo de Paul,27,Central Midfield,Udinese Calcio,€35.00m,in,Summer,35,LaLiga,2021,2021/2022,65
+190,16016,Atlético de Madrid,Matheus Cunha,22,Centre-Forward,Hertha BSC,€26.00m,in,Summer,26,LaLiga,2021,2021/2022,63
+191,16017,Atlético de Madrid,Antoine Griezmann,30,Second Striker,Barcelona,Loan fee:€10.00m,in,Summer,10,LaLiga,2021,2021/2022,56
+192,16047,FC Barcelona,Emerson Royal,22,Right-Back,Real Betis,€14.00m,in,Summer,14,LaLiga,2021,2021/2022,59
+193,16048,FC Barcelona,Yusuf Demir,18,Right Winger,Rapid Vienna,Loan fee:€500Th.,in,Summer,0.5,LaLiga,2021,2021/2022,7
+194,16073,Real Madrid,Eduardo Camavinga,18,Central Midfield,Stade Rennais,€31.00m,in,Summer,31,LaLiga,2021,2021/2022,64
+195,16090,Sevilla FC,Rafa Mir,24,Centre-Forward,Wolves,€16.00m,in,Summer,16,LaLiga,2021,2021/2022,61
+196,16091,Sevilla FC,Gonzalo Montiel,24,Right-Back,River Plate,€11.00m,in,Summer,11,LaLiga,2021,2021/2022,57
+197,16092,Sevilla FC,Thomas Delaney,29,Defensive Midfield,Bor. Dortmund,€6.00m,in,Summer,6,LaLiga,2021,2021/2022,52
+198,16093,Sevilla FC,Ludwig Augustinsson,27,Left-Back,Werder Bremen,€5.50m,in,Summer,5.5,LaLiga,2021,2021/2022,49
+199,16119,Real Sociedad,Alexander Sörloth,25,Centre-Forward,RB Leipzig,Loan fee:€2.00m,in,Summer,2,LaLiga,2021,2021/2022,29
+200,16120,Real Sociedad,Diego Rico,28,Left-Back,Bournemouth,€500Th.,in,Summer,0.5,LaLiga,2021,2021/2022,7
+201,16133,Villarreal CF,Arnaut Danjuma,24,Centre-Forward,Bournemouth,€23.50m,in,Summer,23.5,LaLiga,2021,2021/2022,62
+202,16134,Villarreal CF,Juan Foyth,23,Right-Back,Spurs,€15.00m,in,Summer,15,LaLiga,2021,2021/2022,60
+203,16135,Villarreal CF,Boulaye Dia,24,Centre-Forward,Stade Reims,€12.00m,in,Summer,12,LaLiga,2021,2021/2022,58
+204,16136,Villarreal CF,Manu Morlanes,22,Central Midfield,UD Almería,€4.00m,in,Summer,4,LaLiga,2021,2021/2022,45
+205,16165,Real Betis Balompié,Germán Pezzella,30,Centre-Back,Fiorentina,€3.50m,in,Summer,3.5,LaLiga,2021,2021/2022,41
+206,16193,Granada CF,Luís Maximiano,22,Goalkeeper,Sporting CP,€5.50m,in,Summer,5.5,LaLiga,2021,2021/2022,49
+207,16194,Granada CF,Monchu,21,Central Midfield,Barcelona,€750Th.,in,Summer,0.75,LaLiga,2021,2021/2022,14
+208,16220,Celta de Vigo,Javi Galán,26,Left-Back,SD Huesca,€4.00m,in,Summer,4,LaLiga,2021,2021/2022,45
+209,16221,Celta de Vigo,Franco Cervi,27,Left Winger,Benfica,€4.00m,in,Summer,4,LaLiga,2021,2021/2022,45
+210,16222,Celta de Vigo,Thiago Galhardo,32,Centre-Forward,Internacional,Loan fee:€600Th.,in,Summer,0.6,LaLiga,2021,2021/2022,12
+211,16223,Celta de Vigo,Matías Dituro,34,Goalkeeper,U. Católica,Loan fee:€422Th.,in,Summer,0.422,LaLiga,2021,2021/2022,3
+212,16246,Cádiz CF,Santiago Arzamendia,23,Left-Back,Cerro Porteño,€2.10m,in,Summer,2.1,LaLiga,2021,2021/2022,31
+213,16247,Cádiz CF,Tomás Alarcón,22,Defensive Midfield,O'Higgins,€2.00m,in,Summer,2,LaLiga,2021,2021/2022,29
+214,16248,Cádiz CF,Jeremías Ledesma,28,Goalkeeper,Rosario Central,€1.80m,in,Summer,1.8,LaLiga,2021,2021/2022,26
+215,16282,RCD Espanyol Barcelona,Landry Dimata,23,Centre-Forward,RSC Anderlecht,€2.20m,in,Summer,2.2,LaLiga,2021,2021/2022,32
+216,16283,RCD Espanyol Barcelona,Álvaro Vadillo,26,Left Winger,Celta de Vigo,€1.80m,in,Summer,1.8,LaLiga,2021,2021/2022,26
+217,16284,RCD Espanyol Barcelona,Sergi Gómez,29,Centre-Back,Sevilla FC,€1.00m,in,Summer,1,LaLiga,2021,2021/2022,19
+218,16285,RCD Espanyol Barcelona,Miguel Llambrich,25,Right-Back,Villarreal,€500Th.,in,Summer,0.5,LaLiga,2021,2021/2022,7
+219,16301,CA Osasuna,Ante Budimir,29,Centre-Forward,RCD Mallorca,€8.00m,in,Summer,8,LaLiga,2021,2021/2022,54
+220,16302,CA Osasuna,Jonás Ramalho,28,Centre-Back,Girona,€700Th.,in,Summer,0.7,LaLiga,2021,2021/2022,13
+221,16327,Levante UD,Enric Franquesa,24,Left-Back,Villarreal,€750Th.,in,Summer,0.75,LaLiga,2021,2021/2022,14
+222,16328,Levante UD,Roberto Soldado,36,Centre-Forward,Granada CF,€500Th.,in,Summer,0.5,LaLiga,2021,2021/2022,7
+223,16346,Valencia CF,Marcos André,24,Centre-Forward,Real Valladolid,€8.50m,in,Summer,8.5,LaLiga,2021,2021/2022,55
+224,16347,Valencia CF,Dimitri Foulquier,28,Right-Back,Granada CF,€2.50m,in,Summer,2.5,LaLiga,2021,2021/2022,34
+225,16348,Valencia CF,Giorgi Mamardashvili,20,Goalkeeper,Dinamo Tbilisi,Loan fee:€200Th.,in,Summer,0.2,LaLiga,2021,2021/2022,1
+226,16364,Getafe CF,Jakub Jankto,25,Left Midfield,Sampdoria,€6.00m,in,Summer,6,LaLiga,2021,2021/2022,52
+227,16365,Getafe CF,Carles Aleñá,23,Central Midfield,Barcelona,€5.00m,in,Summer,5,LaLiga,2021,2021/2022,48
+228,16366,Getafe CF,Jonathan Silva,27,Left-Back,CD Leganés,€2.50m,in,Summer,2.5,LaLiga,2021,2021/2022,34
+229,16367,Getafe CF,Stefan Mitrović,31,Centre-Back,R. Strasbourg,€1.00m,in,Summer,1,LaLiga,2021,2021/2022,19
+230,16368,Getafe CF,Sandro Ramírez,26,Centre-Forward,SD Huesca,Loan fee:€1.00m,in,Summer,1,LaLiga,2021,2021/2022,19
+231,16395,Deportivo Alavés,Mamadou Sylla,27,Centre-Forward,Girona,€1.15m,in,Summer,1.15,LaLiga,2021,2021/2022,22
+232,16434,Elche CF,Iván Marcone,31,Defensive Midfield,Boca Juniors,€4.00m,in,Summer,4,LaLiga,2021,2021/2022,45
+233,16435,Elche CF,Lucas Boyé,25,Centre-Forward,Torino,€3.00m,in,Summer,3,LaLiga,2021,2021/2022,38
+234,16436,Elche CF,Johan Mojica,28,Left-Back,Girona,€1.20m,in,Summer,1.2,LaLiga,2021,2021/2022,23
+235,16461,RCD Mallorca,Matthew Hoppe,20,Centre-Forward,FC Schalke 04,€3.50m,in,Summer,3.5,LaLiga,2021,2021/2022,41
+236,16462,RCD Mallorca,Amath Ndiaye,24,Left Winger,Getafe,€3.00m,in,Summer,3,LaLiga,2021,2021/2022,38
+237,16463,RCD Mallorca,Dominik Greif,24,Goalkeeper,Slo. Bratislava,€2.50m,in,Summer,2.5,LaLiga,2021,2021/2022,34
+238,16464,RCD Mallorca,Pablo Maffeo,23,Right-Back,VfB Stuttgart,Loan fee:€500Th.,in,Summer,0.5,LaLiga,2021,2021/2022,7
+239,16495,Rayo Vallecano,Fran García,21,Left-Back,RM Castilla,€2.00m,in,Summer,2,LaLiga,2021,2021/2022,29
+240,16496,Rayo Vallecano,Randy Nteka,23,Attacking Midfield,CF Fuenlabrada,€1.30m,in,Summer,1.3,LaLiga,2021,2021/2022,24
+241,16497,Rayo Vallecano,Pathé Ciss,27,Central Midfield,CF Fuenlabrada,€1.00m,in,Summer,1,LaLiga,2021,2021/2022,19
+242,16522,Atlético de Madrid,Reinildo Mandava,28,Left-Back,LOSC Lille,€3.00m,in,Winter,3,LaLiga,2021,2021/2022,38
+243,16523,Atlético de Madrid,Daniel Wass,32,Central Midfield,Valencia,€2.70m,in,Winter,2.7,LaLiga,2021,2021/2022,36
+244,16526,FC Barcelona,Ferran Torres,21,Left Winger,Man City,€55.00m,in,Winter,55,LaLiga,2021,2021/2022,66
+245,16536,Sevilla FC,Tecatito,29,Right Winger,FC Porto,€3.00m,in,Winter,3,LaLiga,2021,2021/2022,38
+246,16556,Granada CF,Matías Arezo,19,Centre-Forward,River Plate,€5.70m,in,Winter,5.7,LaLiga,2021,2021/2022,51
+247,16557,Granada CF,Myrto Uzuni,26,Left Winger,Ferencváros,€4.00m,in,Winter,4,LaLiga,2021,2021/2022,45
+248,16558,Granada CF,Njegos Petrovic,22,Defensive Midfield,Red Star,€1.50m,in,Winter,1.5,LaLiga,2021,2021/2022,25
+249,16570,Cádiz CF,Lucas Pérez,33,Centre-Forward,Elche CF,€200Th.,in,Winter,0.2,LaLiga,2021,2021/2022,1
+250,16580,RCD Espanyol Barcelona,Tonny Vilhena,27,Central Midfield,Krasnodar,Loan fee:€500Th.,in,Winter,0.5,LaLiga,2021,2021/2022,7
+251,16591,Valencia CF,Giorgi Mamardashvili,21,Goalkeeper,Dinamo Tbilisi,€850Th.,in,Winter,0.85,LaLiga,2021,2021/2022,17
+252,16592,Valencia CF,Eray Cömert,23,Centre-Back,FC Basel,€800Th.,in,Winter,0.8,LaLiga,2021,2021/2022,16
+253,16605,Getafe CF,Borja Mayoral,24,Centre-Forward,AS Roma,Loan fee:€500Th.,in,Winter,0.5,LaLiga,2021,2021/2022,7
+254,16629,RCD Mallorca,Vedat Muriqi,27,Centre-Forward,Lazio,Loan fee:€500Th.,in,Winter,0.5,LaLiga,2021,2021/2022,7
+255,16044,LOSC Lille,Amadou Onana,19,Defensive Midfield,Hamburger SV,€7.00m,in,Summer,7,Ligue 1,2021,2021/2022,58
+256,16045,LOSC Lille,Gabriel Gudmundsson,22,Left-Back,FC Groningen,€6.00m,in,Summer,6,Ligue 1,2021,2021/2022,53
+257,16067,Paris Saint-Germain,Achraf Hakimi,22,Right-Back,Inter,€66.50m,in,Summer,66.5,Ligue 1,2021,2021/2022,78
+258,16068,Paris Saint-Germain,Danilo Pereira,29,Defensive Midfield,FC Porto,€16.00m,in,Summer,16,Ligue 1,2021,2021/2022,74
+259,16069,Paris Saint-Germain,Nuno Mendes,19,Left-Back,Sporting CP,Loan fee:€7.00m,in,Summer,7,Ligue 1,2021,2021/2022,58
+260,16097,AS Monaco,Myron Boadu,20,Centre-Forward,AZ Alkmaar,€17.00m,in,Summer,17,Ligue 1,2021,2021/2022,75
+261,16098,AS Monaco,Jean Lucas,23,Central Midfield,Olympique Lyon,€11.00m,in,Summer,11,Ligue 1,2021,2021/2022,66
+262,16099,AS Monaco,Ismail Jakobs,21,Left-Back,1. FC Köln,€6.50m,in,Summer,6.5,Ligue 1,2021,2021/2022,55
+263,16138,Olympique Lyon,Xherdan Shaqiri,29,Right Winger,Liverpool,€6.00m,in,Summer,6,Ligue 1,2021,2021/2022,53
+264,16139,Olympique Lyon,Emerson,27,Left-Back,Chelsea,Loan fee:€500Th.,in,Summer,0.5,Ligue 1,2021,2021/2022,9
+265,16165,Olympique Marseille,Gerson,24,Central Midfield,Flamengo,€20.00m,in,Summer,20,Ligue 1,2021,2021/2022,77
+266,16166,Olympique Marseille,Leonardo Balerdi,22,Centre-Back,Bor. Dortmund,€11.00m,in,Summer,11,Ligue 1,2021,2021/2022,66
+267,16167,Olympique Marseille,Pol Lirola,24,Right-Back,Fiorentina,€6.50m,in,Summer,6.5,Ligue 1,2021,2021/2022,55
+268,16168,Olympique Marseille,Luan Peres,26,Centre-Back,Santos FC,€4.50m,in,Summer,4.5,Ligue 1,2021,2021/2022,45
+269,16169,Olympique Marseille,Konrad de la Fuente,19,Left Winger,Barcelona B,€3.00m,in,Summer,3,Ligue 1,2021,2021/2022,36
+270,16170,Olympique Marseille,Pau López,26,Goalkeeper,AS Roma,Loan fee:€720Th.,in,Summer,0.72,Ligue 1,2021,2021/2022,12
+271,16171,Olympique Marseille,Cengiz Ünder,23,Right Winger,AS Roma,Loan fee:€500Th.,in,Summer,0.5,Ligue 1,2021,2021/2022,9
+272,16172,Olympique Marseille,Bamba Dieng,21,Centre-Forward,Diambars FC,€400Th.,in,Summer,0.4,Ligue 1,2021,2021/2022,6
+273,16201,Stade Rennais FC,Loïc Badé,21,Centre-Back,Lens,€17.00m,in,Summer,17,Ligue 1,2021,2021/2022,75
+274,16202,Stade Rennais FC,Kamaldeen Sulemana,19,Left Winger,Nordsjaelland,€15.00m,in,Summer,15,Ligue 1,2021,2021/2022,71
+275,16203,Stade Rennais FC,Gaëtan Laborde,27,Centre-Forward,Montpellier,€15.00m,in,Summer,15,Ligue 1,2021,2021/2022,71
+276,16204,Stade Rennais FC,Baptiste Santamaria,26,Central Midfield,SC Freiburg,€14.00m,in,Summer,14,Ligue 1,2021,2021/2022,69
+277,16205,Stade Rennais FC,Lovro Majer,23,Attacking Midfield,Dinamo Zagreb,€12.00m,in,Summer,12,Ligue 1,2021,2021/2022,68
+278,16206,Stade Rennais FC,Dogan Alemdar,18,Goalkeeper,Kayserispor,€3.50m,in,Summer,3.5,Ligue 1,2021,2021/2022,40
+279,16207,Stade Rennais FC,Birger Meling,26,Left-Back,Nîmes Olympique,€3.00m,in,Summer,3,Ligue 1,2021,2021/2022,36
+280,16242,RC Lens,Kevin Danso,22,Centre-Back,FC Augsburg,€5.50m,in,Summer,5.5,Ligue 1,2021,2021/2022,50
+281,16243,RC Lens,Gaël Kakuta,30,Attacking Midfield,Amiens SC,€5.00m,in,Summer,5,Ligue 1,2021,2021/2022,48
+282,16244,RC Lens,Przemyslaw Frankowski,26,Left Midfield,Chicago,€2.30m,in,Summer,2.3,Ligue 1,2021,2021/2022,29
+283,16245,RC Lens,Deiver Machado,27,Left-Back,Toulouse,€1.80m,in,Summer,1.8,Ligue 1,2021,2021/2022,24
+284,16246,RC Lens,Wuilker Fariñez,23,Goalkeeper,Millonarios,€1.50m,in,Summer,1.5,Ligue 1,2021,2021/2022,21
+285,16275,Montpellier HSC,Thuler,22,Centre-Back,Flamengo,Loan fee:€200Th.,in,Summer,0.2,Ligue 1,2021,2021/2022,1
+286,16300,OGC Nice,Calvin Stengs,22,Right Winger,AZ Alkmaar,€15.00m,in,Summer,15,Ligue 1,2021,2021/2022,71
+287,16301,OGC Nice,Andy Delort,29,Centre-Forward,Montpellier,€10.00m,in,Summer,10,Ligue 1,2021,2021/2022,63
+288,16302,OGC Nice,Jean-Clair Todibo,21,Centre-Back,Barcelona,€8.50m,in,Summer,8.5,Ligue 1,2021,2021/2022,62
+289,16303,OGC Nice,Pablo Rosario,24,Defensive Midfield,PSV Eindhoven,€6.00m,in,Summer,6,Ligue 1,2021,2021/2022,53
+290,16304,OGC Nice,Mario Lemina,27,Defensive Midfield,Southampton,€5.50m,in,Summer,5.5,Ligue 1,2021,2021/2022,50
+291,16305,OGC Nice,Melvin Bard,20,Left-Back,Olympique Lyon,€3.00m,in,Summer,3,Ligue 1,2021,2021/2022,36
+292,16364,AS Saint-Étienne,Ignacio Ramírez,24,Centre-Forward,Liverpool FC,Loan fee:€300Th.,in,Summer,0.3,Ligue 1,2021,2021/2022,3
+293,16381,FC Girondins Bordeaux,Fransérgio,30,Central Midfield,SC Braga,€4.50m,in,Summer,4.5,Ligue 1,2021,2021/2022,45
+294,16382,FC Girondins Bordeaux,Stian Gregersen,26,Centre-Back,Molde,€2.00m,in,Summer,2,Ligue 1,2021,2021/2022,26
+295,16383,FC Girondins Bordeaux,Jean Onana,21,Defensive Midfield,LOSC Lille,€2.00m,in,Summer,2,Ligue 1,2021,2021/2022,26
+296,16384,FC Girondins Bordeaux,Issouf Sissokho,19,Central Midfield,Derby Acad.,€300Th.,in,Summer,0.3,Ligue 1,2021,2021/2022,3
+297,16416,Angers SCO,Billal Brahimi,21,Left Winger,Stade Reims,€1.30m,in,Summer,1.3,Ligue 1,2021,2021/2022,17
+298,16434,Stade Reims,Azor Matusiwa,23,Defensive Midfield,FC Groningen,€4.00m,in,Summer,4,Ligue 1,2021,2021/2022,42
+299,16435,Stade Reims,Mitchell van Bergen,22,Left Winger,Heerenveen,€2.00m,in,Summer,2,Ligue 1,2021,2021/2022,26
+300,16464,RC Strasbourg Alsace,Gerzino Nyamsi,24,Centre-Back,Stade Rennais,€1.50m,in,Summer,1.5,Ligue 1,2021,2021/2022,21
+301,16465,RC Strasbourg Alsace,Karol Fila,23,Right-Back,Lechia Gdansk,€1.50m,in,Summer,1.5,Ligue 1,2021,2021/2022,21
+302,16496,FC Lorient,Moritz Jenz,22,Centre-Back,Lausanne-Sport,€3.50m,in,Summer,3.5,Ligue 1,2021,2021/2022,40
+303,16497,FC Lorient,Igor Silva,24,Right-Back,NK Osijek,€2.50m,in,Summer,2.5,Ligue 1,2021,2021/2022,31
+304,16520,Stade Brestois 29,Marco Bizot,30,Goalkeeper,AZ Alkmaar,€5.00m,in,Summer,5,Ligue 1,2021,2021/2022,48
+305,16521,Stade Brestois 29,Lilian Brassier,21,Centre-Back,Stade Rennais,€2.00m,in,Summer,2,Ligue 1,2021,2021/2022,26
+306,16522,Stade Brestois 29,Romain Del Castillo,25,Right Winger,Stade Rennais,€1.50m,in,Summer,1.5,Ligue 1,2021,2021/2022,21
+307,16523,Stade Brestois 29,Jere Uronen,27,Left-Back,KRC Genk,€1.00m,in,Summer,1,Ligue 1,2021,2021/2022,14
+308,16544,FC Nantes,Alban Lafont,22,Goalkeeper,Fiorentina,€7.50m,in,Summer,7.5,Ligue 1,2021,2021/2022,61
+309,16567,ESTAC Troyes,Metinho,18,Central Midfield,Fluminense,€5.00m,in,Summer,5,Ligue 1,2021,2021/2022,48
+310,16568,ESTAC Troyes,Mama Baldé,25,Right Winger,Dijon,€3.50m,in,Summer,3.5,Ligue 1,2021,2021/2022,40
+311,16569,ESTAC Troyes,Renaud Ripart,28,Attacking Midfield,Nîmes Olympique,€3.30m,in,Summer,3.3,Ligue 1,2021,2021/2022,38
+312,16570,ESTAC Troyes,Giulian Biancone,21,Right-Back,Monaco,€2.50m,in,Summer,2.5,Ligue 1,2021,2021/2022,31
+313,16571,ESTAC Troyes,Rominigue Kouamé,24,Central Midfield,LOSC Lille,€2.50m,in,Summer,2.5,Ligue 1,2021,2021/2022,31
+314,16572,ESTAC Troyes,Xavier Chavalerin,30,Central Midfield,Stade Reims,€1.00m,in,Summer,1,Ligue 1,2021,2021/2022,14
+315,16573,ESTAC Troyes,Gerson Rodrigues,26,Left Winger,Dynamo Kyiv,Loan fee:€1.00m,in,Summer,1,Ligue 1,2021,2021/2022,14
+316,16574,ESTAC Troyes,Mykola Kukharevych,20,Centre-Forward,Rukh Lviv,€300Th.,in,Summer,0.3,Ligue 1,2021,2021/2022,3
+317,16627,LOSC Lille,Edon Zhegrova,22,Right Winger,FC Basel,€7.00m,in,Winter,7,Ligue 1,2021,2021/2022,58
+318,16644,AS Monaco,Vanderson,20,Right-Back,Grêmio,€11.00m,in,Winter,11,Ligue 1,2021,2021/2022,66
+319,16649,Olympique Lyon,Romain Faivre,23,Right Midfield,Stade Brestois,€15.00m,in,Winter,15,Ligue 1,2021,2021/2022,71
+320,16650,Olympique Lyon,Tanguy Ndombélé,25,Central Midfield,Spurs,Loan fee:€1.42m,in,Winter,1.42,Ligue 1,2021,2021/2022,18
+321,16660,Olympique Marseille,Samuel Gigot,28,Centre-Back,Spartak Moscow,€500Th.,in,Winter,0.5,Ligue 1,2021,2021/2022,9
+322,16669,RC Lens,Patrick Berg,24,Defensive Midfield,Bodø/Glimt,€4.50m,in,Winter,4.5,Ligue 1,2021,2021/2022,45
+323,16675,OGC Nice,Billal Brahimi,21,Left Winger,Angers SCO,€7.00m,in,Winter,7,Ligue 1,2021,2021/2022,58
+324,16682,FC Metz,Fali Candé,24,Left-Back,Portimonense,€2.50m,in,Winter,2.5,Ligue 1,2021,2021/2022,31
+325,16695,AS Saint-Étienne,Falaye Sacko,26,Right-Back,Vit. Guimarães,Loan fee:€300Th.,in,Winter,0.3,Ligue 1,2021,2021/2022,3
+326,16706,FC Girondins Bordeaux,Anel Ahmedhodzic,22,Centre-Back,Malmö FF,Loan fee:€1.00m,in,Winter,1,Ligue 1,2021,2021/2022,14
+327,16714,Angers SCO,Marin Jakolis,25,Left Winger,Hajduk Split,€500Th.,in,Winter,0.5,Ligue 1,2021,2021/2022,9
+328,16721,Stade Reims,Jens Cajuste,22,Defensive Midfield,FC Midtjylland,€10.00m,in,Winter,10,Ligue 1,2021,2021/2022,63
+329,16727,RC Strasbourg Alsace,Ismaël Doukouré,18,Centre-Back,Valenciennes FC,€1.50m,in,Winter,1.5,Ligue 1,2021,2021/2022,21
+330,16731,FC Lorient,Ibrahima Koné,22,Centre-Forward,Sarpsborg 08,€4.00m,in,Winter,4,Ligue 1,2021,2021/2022,42
+331,16732,FC Lorient,Taofeek Ismaheel,21,Left Winger,Fredrikstad,€500Th.,in,Winter,0.5,Ligue 1,2021,2021/2022,9
+332,16748,ESTAC Troyes,Abdu Conté,23,Left-Back,Moreirense,€2.70m,in,Winter,2.7,Ligue 1,2021,2021/2022,34
+333,26239,Inter Milan,Zinho Vanheusden,21,Centre-Back,Standard Liège,€16.00m,in,Summer,16,Serie A,2021,2021/2022,150
+334,26240,Inter Milan,Denzel Dumfries,25,Right Midfield,PSV Eindhoven,€13.70m,in,Summer,13.7,Serie A,2021,2021/2022,144
+335,26241,Inter Milan,Joaquín Correa,27,Second Striker,Lazio,Loan fee:€6.00m,in,Summer,6,Serie A,2021,2021/2022,125
+336,26242,Inter Milan,Matteo Darmian,31,Right-Back,Parma,€3.30m,in,Summer,3.3,Serie A,2021,2021/2022,98
+337,26243,Inter Milan,Edin Dzeko,35,Centre-Forward,AS Roma,€1.50m,in,Summer,1.5,Serie A,2021,2021/2022,62
+338,26277,AC Milan,Fikayo Tomori,23,Centre-Back,Chelsea,€28.80m,in,Summer,28.8,Serie A,2021,2021/2022,159
+339,26278,AC Milan,Mike Maignan,25,Goalkeeper,LOSC Lille,€14.40m,in,Summer,14.4,Serie A,2021,2021/2022,148
+340,26279,AC Milan,Yacine Adli,21,Attacking Midfield,G. Bordeaux,€8.00m,in,Summer,8,Serie A,2021,2021/2022,137
+341,26280,AC Milan,Sandro Tonali,21,Defensive Midfield,Brescia,€6.90m,in,Summer,6.9,Serie A,2021,2021/2022,132
+342,26281,AC Milan,Fodé Ballo-Touré,24,Left-Back,Monaco,€5.00m,in,Summer,5,Serie A,2021,2021/2022,113
+343,26282,AC Milan,Tiemoué Bakayoko,27,Defensive Midfield,Chelsea,Loan fee:€3.00m,in,Summer,3,Serie A,2021,2021/2022,90
+344,26283,AC Milan,Brahim Díaz,21,Attacking Midfield,Real Madrid,Loan fee:€3.00m,in,Summer,3,Serie A,2021,2021/2022,90
+345,26284,AC Milan,Junior Messias,30,Right Winger,Crotone,Loan fee:€2.60m,in,Summer,2.6,Serie A,2021,2021/2022,85
+346,26285,AC Milan,Olivier Giroud,34,Centre-Forward,Chelsea,€1.00m,in,Summer,1,Serie A,2021,2021/2022,50
+347,26286,AC Milan,Pietro Pellegri,20,Centre-Forward,Monaco,Loan fee:€1.00m,in,Summer,1,Serie A,2021,2021/2022,50
+348,26287,AC Milan,Alessandro Florenzi,30,Right-Back,AS Roma,Loan fee:€1.00m,in,Summer,1,Serie A,2021,2021/2022,50
+349,26310,Atalanta BC,Juan Musso,27,Goalkeeper,Udinese Calcio,€20.50m,in,Summer,20.5,Serie A,2021,2021/2022,154
+350,26311,Atalanta BC,Cristian Romero,23,Centre-Back,Juventus,€17.00m,in,Summer,17,Serie A,2021,2021/2022,152
+351,26312,Atalanta BC,Teun Koopmeiners,23,Defensive Midfield,AZ Alkmaar,€14.00m,in,Summer,14,Serie A,2021,2021/2022,146
+352,26313,Atalanta BC,Matteo Lovato,21,Centre-Back,Hellas Verona,€8.00m,in,Summer,8,Serie A,2021,2021/2022,137
+353,26314,Atalanta BC,Davide Zappacosta,29,Right-Back,Chelsea,€6.00m,in,Summer,6,Serie A,2021,2021/2022,125
+354,26375,Juventus FC,Weston McKennie,22,Central Midfield,FC Schalke 04,€20.50m,in,Summer,20.5,Serie A,2021,2021/2022,154
+355,26376,Juventus FC,Moise Kean,21,Centre-Forward,Everton,Loan fee:€7.00m,in,Summer,7,Serie A,2021,2021/2022,133
+356,26377,Juventus FC,Mohamed Ihattaren,19,Attacking Midfield,PSV Eindhoven,€1.90m,in,Summer,1.9,Serie A,2021,2021/2022,70
+357,26378,Juventus FC,Kaio Jorge,19,Centre-Forward,Santos FC,€1.50m,in,Summer,1.5,Serie A,2021,2021/2022,62
+358,26391,SSC Napoli,Matteo Politano,27,Right Winger,Inter,€21.00m,in,Summer,21,Serie A,2021,2021/2022,156
+359,26392,SSC Napoli,André Zambo Anguissa,25,Defensive Midfield,Fulham,Loan fee:€600Th.,in,Summer,0.6,Serie A,2021,2021/2022,39
+360,26417,SS Lazio,Toma Basic,24,Central Midfield,G. Bordeaux,€7.10m,in,Summer,7.1,Serie A,2021,2021/2022,135
+361,26418,SS Lazio,Dimitrije Kamenovic,20,Left-Back,Cukaricki,€3.00m,in,Summer,3,Serie A,2021,2021/2022,90
+362,26419,SS Lazio,Felipe Anderson,28,Right Winger,West Ham,€3.00m,in,Summer,3,Serie A,2021,2021/2022,90
+363,26420,SS Lazio,Luka Romero,16,Right Winger,RCD Mallorca B,€200Th.,in,Summer,0.2,Serie A,2021,2021/2022,6
+364,26421,SS Lazio,Mattia Zaccagni,26,Attacking Midfield,Hellas Verona,Loan fee:€200Th.,in,Summer,0.2,Serie A,2021,2021/2022,6
+365,26447,AS Roma,Tammy Abraham,23,Centre-Forward,Chelsea,€40.00m,in,Summer,40,Serie A,2021,2021/2022,160
+366,26448,AS Roma,Marash Kumbulla,21,Centre-Back,Hellas Verona,€26.50m,in,Summer,26.5,Serie A,2021,2021/2022,158
+367,26449,AS Roma,Eldor Shomurodov,26,Centre-Forward,Genoa,€18.00m,in,Summer,18,Serie A,2021,2021/2022,153
+368,26450,AS Roma,Matías Viña,23,Left-Back,Palmeiras,€13.00m,in,Summer,13,Serie A,2021,2021/2022,143
+369,26451,AS Roma,Rui Patrício,33,Goalkeeper,Wolves,€11.80m,in,Summer,11.8,Serie A,2021,2021/2022,142
+370,26452,AS Roma,Roger Ibañez,22,Centre-Back,Atalanta BC,€9.00m,in,Summer,9,Serie A,2021,2021/2022,140
+371,26453,AS Roma,Bryan Reynolds,20,Right-Back,Dallas,€6.75m,in,Summer,6.75,Serie A,2021,2021/2022,131
+372,26493,US Sassuolo,Hamed Junior Traorè,21,Attacking Midfield,FC Empoli,€16.00m,in,Summer,16,Serie A,2021,2021/2022,150
+373,26494,US Sassuolo,Ruan Tressoldi,22,Centre-Back,Grêmio,€5.00m,in,Summer,5,Serie A,2021,2021/2022,113
+374,26495,US Sassuolo,Matheus Henrique,23,Central Midfield,Grêmio,Loan fee:€4.00m,in,Summer,4,Serie A,2021,2021/2022,108
+375,26496,US Sassuolo,Jeremy Toljan,26,Right-Back,Bor. Dortmund,€3.50m,in,Summer,3.5,Serie A,2021,2021/2022,101
+376,26497,US Sassuolo,Martin Erlic,23,Centre-Back,Spezia Calcio,€3.50m,in,Summer,3.5,Serie A,2021,2021/2022,101
+377,26498,US Sassuolo,Maxime López,23,Defensive Midfield,Marseille,€2.00m,in,Summer,2,Serie A,2021,2021/2022,74
+378,26499,US Sassuolo,Abdou Harroui,23,Central Midfield,Sparta R.,Loan fee:€500Th.,in,Summer,0.5,Serie A,2021,2021/2022,27
+379,26500,US Sassuolo,Pietro Cianci,25,Centre-Forward,Teramo,€150Th.,in,Summer,0.15,Serie A,2021,2021/2022,4
+380,26541,UC Sampdoria,Antonino La Gumina,25,Centre-Forward,FC Empoli,€5.50m,in,Summer,5.5,Serie A,2021,2021/2022,119
+381,26542,UC Sampdoria,Ernesto Torregrossa,29,Centre-Forward,Brescia,€5.50m,in,Summer,5.5,Serie A,2021,2021/2022,119
+382,26543,UC Sampdoria,Antonio Candreva,34,Right Midfield,Inter,€2.50m,in,Summer,2.5,Serie A,2021,2021/2022,82
+383,26544,UC Sampdoria,Francesco Caputo,34,Centre-Forward,Sassuolo,Loan fee:€500Th.,in,Summer,0.5,Serie A,2021,2021/2022,27
+384,26546,UC Sampdoria,Lorenzo Campaner,18,Centre-Back,Sangiovannese,€7Th.,in,Summer,0.007,Serie A,2021,2021/2022,1
+385,26583,Hellas Verona,Ivan Ilić,20,Central Midfield,Man City U23,€7.50m,in,Summer,7.5,Serie A,2021,2021/2022,136
+386,26584,Hellas Verona,Mert Cetin,24,Centre-Back,AS Roma,€7.00m,in,Summer,7,Serie A,2021,2021/2022,133
+387,26585,Hellas Verona,Kevin Lasagna,28,Centre-Forward,Udinese Calcio,€6.50m,in,Summer,6.5,Serie A,2021,2021/2022,129
+388,26586,Hellas Verona,Antonin Barak,26,Attacking Midfield,Udinese Calcio,€6.00m,in,Summer,6,Serie A,2021,2021/2022,125
+389,26587,Hellas Verona,Giangiacomo Magnani,25,Centre-Back,Sassuolo,€4.00m,in,Summer,4,Serie A,2021,2021/2022,108
+390,26588,Hellas Verona,Federico Ceccherini,29,Centre-Back,Fiorentina,€3.00m,in,Summer,3,Serie A,2021,2021/2022,90
+391,26589,Hellas Verona,Matteo Cancellieri,19,Right Winger,Roma U19,€2.50m,in,Summer,2.5,Serie A,2021,2021/2022,82
+392,26590,Hellas Verona,Giovanni Simeone,26,Centre-Forward,Cagliari Calcio,Loan fee:€1.50m,in,Summer,1.5,Serie A,2021,2021/2022,62
+393,26591,Hellas Verona,Martin Hongla,23,Defensive Midfield,Royal Antwerp,Loan fee:€1.00m,in,Summer,1,Serie A,2021,2021/2022,50
+394,26592,Hellas Verona,Gianluca Caprari,28,Second Striker,Sampdoria,Loan fee:€300Th.,in,Summer,0.3,Serie A,2021,2021/2022,12
+395,26633,Genoa CFC,Hernani,27,Central Midfield,Parma,€5.50m,in,Summer,5.5,Serie A,2021,2021/2022,119
+396,26634,Genoa CFC,Lennart Czyborra,22,Left-Back,Atalanta BC,€5.50m,in,Summer,5.5,Serie A,2021,2021/2022,119
+397,26635,Genoa CFC,Abdoulaye Touré,27,Defensive Midfield,FC Nantes,€3.50m,in,Summer,3.5,Serie A,2021,2021/2022,101
+398,26636,Genoa CFC,Alessandro Vogliacco,22,Centre-Back,Pordenone,€2.00m,in,Summer,2,Serie A,2021,2021/2022,74
+399,26637,Genoa CFC,Felipe Caicedo,32,Centre-Forward,Lazio,€2.00m,in,Summer,2,Serie A,2021,2021/2022,74
+400,26638,Genoa CFC,Alberto Paleari,28,Goalkeeper,Cittadella,€2.00m,in,Summer,2,Serie A,2021,2021/2022,74
+401,26639,Genoa CFC,Caleb Ekuban,27,Centre-Forward,Trabzonspor,€1.80m,in,Summer,1.8,Serie A,2021,2021/2022,67
+402,26640,Genoa CFC,Johan Vásquez,22,Centre-Back,UNAM Pumas,Loan fee:€500Th.,in,Summer,0.5,Serie A,2021,2021/2022,27
+403,26701,Bologna FC 1909,Musa Barrow,22,Left Winger,Atalanta BC,€14.50m,in,Summer,14.5,Serie A,2021,2021/2022,149
+404,26702,Bologna FC 1909,Kevin Bonifazi,25,Centre-Back,SPAL,€6.00m,in,Summer,6,Serie A,2021,2021/2022,125
+405,26703,Bologna FC 1909,Marko Arnautovic,32,Centre-Forward,SH Port,€3.00m,in,Summer,3,Serie A,2021,2021/2022,90
+406,26704,Bologna FC 1909,Adama Soumaoro,29,Centre-Back,LOSC Lille,€2.50m,in,Summer,2.5,Serie A,2021,2021/2022,82
+407,26705,Bologna FC 1909,Sydney van Hooijdonk,21,Centre-Forward,NAC Breda,€410Th.,in,Summer,0.41,Serie A,2021,2021/2022,17
+408,26737,Udinese Calcio,Lazar Samardzic,19,Attacking Midfield,RB Leipzig,€3.00m,in,Summer,3,Serie A,2021,2021/2022,90
+409,26738,Udinese Calcio,Marco Silvestri,30,Goalkeeper,Hellas Verona,€2.50m,in,Summer,2.5,Serie A,2021,2021/2022,82
+410,26739,Udinese Calcio,Brandon Soppy,19,Right-Back,Stade Rennais,€2.00m,in,Summer,2,Serie A,2021,2021/2022,74
+411,26740,Udinese Calcio,Isaac Success,25,Centre-Forward,Watford,€1.80m,in,Summer,1.8,Serie A,2021,2021/2022,67
+412,26771,ACF Fiorentina,Nicolás González,23,Left Winger,VfB Stuttgart,€24.50m,in,Summer,24.5,Serie A,2021,2021/2022,157
+413,26772,ACF Fiorentina,Igor,23,Centre-Back,SPAL,€5.30m,in,Summer,5.3,Serie A,2021,2021/2022,115
+414,26773,ACF Fiorentina,Lucas Torreira,25,Defensive Midfield,Arsenal,Loan fee:€1.50m,in,Summer,1.5,Serie A,2021,2021/2022,62
+415,26774,ACF Fiorentina,Matija Nastasić,28,Centre-Back,FC Schalke 04,€500Th.,in,Summer,0.5,Serie A,2021,2021/2022,27
+416,26810,Spezia Calcio,Janis Antiste,19,Centre-Forward,Toulouse,€4.60m,in,Summer,4.6,Serie A,2021,2021/2022,111
+417,26811,Spezia Calcio,Kelvin Amian,23,Right-Back,Toulouse,€3.20m,in,Summer,3.2,Serie A,2021,2021/2022,96
+418,26812,Spezia Calcio,Dimitrios Nikolaou,22,Centre-Back,FC Empoli,€3.00m,in,Summer,3,Serie A,2021,2021/2022,90
+419,26813,Spezia Calcio,Jakub Kiwior,21,Defensive Midfield,MSK Zilina,€2.20m,in,Summer,2.2,Serie A,2021,2021/2022,79
+420,26814,Spezia Calcio,David Strelec,20,Centre-Forward,Slo. Bratislava,€1.80m,in,Summer,1.8,Serie A,2021,2021/2022,67
+421,26815,Spezia Calcio,Samuel Mraz,24,Centre-Forward,FC Empoli,€1.60m,in,Summer,1.6,Serie A,2021,2021/2022,65
+422,26816,Spezia Calcio,Léo Sena,25,Defensive Midfield,Atlético-MG,€1.25m,in,Summer,1.25,Serie A,2021,2021/2022,59
+423,26817,Spezia Calcio,Aimar Sher,18,Central Midfield,Hammarby,€1.20m,in,Summer,1.2,Serie A,2021,2021/2022,57
+424,26818,Spezia Calcio,Mikael Egill Ellertsson,19,Central Midfield,SPAL U19,€1.00m,in,Summer,1,Serie A,2021,2021/2022,50
+425,26819,Spezia Calcio,Emil Kornvig,21,Central Midfield,Lyngby BK,€1.00m,in,Summer,1,Serie A,2021,2021/2022,50
+426,26820,Spezia Calcio,Arkadiusz Reca,26,Left-Back,Atalanta BC,Loan fee:€1.00m,in,Summer,1,Serie A,2021,2021/2022,50
+427,26821,Spezia Calcio,Daniele Verde,25,Right Winger,AEK Athens,€600Th.,in,Summer,0.6,Serie A,2021,2021/2022,39
+428,26822,Spezia Calcio,Ebrima Colley,21,Left Winger,Atalanta BC,Loan fee:€600Th.,in,Summer,0.6,Serie A,2021,2021/2022,39
+429,26823,Spezia Calcio,Leandro Sanca,21,Right Winger,Braga B,€500Th.,in,Summer,0.5,Serie A,2021,2021/2022,27
+430,26824,Spezia Calcio,Suf Podgoreanu,19,Right Winger,Roma U19,€500Th.,in,Summer,0.5,Serie A,2021,2021/2022,27
+431,26825,Spezia Calcio,Martin Erlic,23,Centre-Back,Sassuolo,Loan fee:€500Th.,in,Summer,0.5,Serie A,2021,2021/2022,27
+432,26826,Spezia Calcio,Emil Holm,21,Right-Back,SönderjyskE,€300Th.,in,Summer,0.3,Serie A,2021,2021/2022,12
+433,26827,Spezia Calcio,Rey Manaj,24,Centre-Forward,Barcelona,Loan fee:€300Th.,in,Summer,0.3,Serie A,2021,2021/2022,12
+434,26828,Spezia Calcio,Kevin Agudelo,22,Right Winger,Genoa,Loan fee:€90Th.,in,Summer,0.09,Serie A,2021,2021/2022,3
+435,26829,Spezia Calcio,Mehdi Bourabia,30,Central Midfield,Sassuolo,Loan fee:€75Th.,in,Summer,0.075,Serie A,2021,2021/2022,2
+436,26881,Cagliari Calcio,Razvan Marin,25,Central Midfield,Ajax,€10.00m,in,Summer,10,Serie A,2021,2021/2022,141
+437,26882,Cagliari Calcio,Gabriele Zappa,21,Right-Back,Pescara,€3.20m,in,Summer,3.2,Serie A,2021,2021/2022,96
+438,26883,Cagliari Calcio,Boris Radunović,25,Goalkeeper,Atalanta BC,€500Th.,in,Summer,0.5,Serie A,2021,2021/2022,27
+439,26914,Torino FC,David Zima,20,Centre-Back,Slavia Prague,€5.90m,in,Summer,5.9,Serie A,2021,2021/2022,122
+440,26915,Torino FC,Josip Brekalo,23,Left Winger,VfL Wolfsburg,Loan fee:€1.00m,in,Summer,1,Serie A,2021,2021/2022,50
+441,26916,Torino FC,Dennis Praet,27,Central Midfield,Leicester,Loan fee:€1.00m,in,Summer,1,Serie A,2021,2021/2022,50
+442,26917,Torino FC,Magnus Warming,21,Left Winger,Lyngby BK,€900Th.,in,Summer,0.9,Serie A,2021,2021/2022,44
+443,26945,FC Empoli,Lorenzo Tonelli,31,Centre-Back,Sampdoria,€2.40m,in,Summer,2.4,Serie A,2021,2021/2022,80
+444,26946,FC Empoli,Nicolas Haas,25,Central Midfield,Atalanta BC,€2.00m,in,Summer,2,Serie A,2021,2021/2022,74
+445,26947,FC Empoli,Ardian Ismajli,24,Centre-Back,Spezia Calcio,€2.00m,in,Summer,2,Serie A,2021,2021/2022,74
+446,26948,FC Empoli,Liam Henderson,25,Central Midfield,Lecce,€1.50m,in,Summer,1.5,Serie A,2021,2021/2022,62
+447,26949,FC Empoli,Giovanni Crociata,23,Central Midfield,Crotone,€1.00m,in,Summer,1,Serie A,2021,2021/2022,50
+448,26950,FC Empoli,Riccardo Fiamozzi,28,Right-Back,Lecce,€500Th.,in,Summer,0.5,Serie A,2021,2021/2022,27
+449,26951,FC Empoli,Sebastiano Luperto,24,Centre-Back,SSC Napoli,Loan fee:€500Th.,in,Summer,0.5,Serie A,2021,2021/2022,27
+450,26952,FC Empoli,Petar Stojanovic,25,Right-Back,Dinamo Zagreb,Loan fee:€300Th.,in,Summer,0.3,Serie A,2021,2021/2022,12
+451,26996,US Salernitana 1919,Riccardo Gagliolo,31,Centre-Back,Parma,€2.00m,in,Summer,2,Serie A,2021,2021/2022,74
+452,26997,US Salernitana 1919,Vincenzo Fiorillo,31,Goalkeeper,Pescara,€600Th.,in,Summer,0.6,Serie A,2021,2021/2022,39
+453,26998,US Salernitana 1919,Simy,29,Centre-Forward,Crotone,Loan fee:€500Th.,in,Summer,0.5,Serie A,2021,2021/2022,27
+454,26999,US Salernitana 1919,Reda Boultam,23,Attacking Midfield,Triestina,€200Th.,in,Summer,0.2,Serie A,2021,2021/2022,6
+455,27060,Venezia FC,Gianluca Busio,19,Central Midfield,Kansas City,€6.00m,in,Summer,6,Serie A,2021,2021/2022,125
+456,27061,Venezia FC,Thomas Henry,26,Centre-Forward,OH Leuven,€5.50m,in,Summer,5.5,Serie A,2021,2021/2022,119
+457,27062,Venezia FC,Tanner Tessmann,19,Central Midfield,Dallas,€3.64m,in,Summer,3.64,Serie A,2021,2021/2022,105
+458,27063,Venezia FC,Arnór Sigurdsson,22,Attacking Midfield,CSKA Moscow,Loan fee:€800Th.,in,Summer,0.8,Serie A,2021,2021/2022,42
+459,27064,Venezia FC,Ridgeciano Haps,28,Left-Back,Feyenoord,€500Th.,in,Summer,0.5,Serie A,2021,2021/2022,27
+460,27065,Venezia FC,Sofian Kiyine,23,Central Midfield,Lazio,Loan fee:€400Th.,in,Summer,0.4,Serie A,2021,2021/2022,15
+461,27066,Venezia FC,David Schnegg,22,Left-Back,LASK,€250Th.,in,Summer,0.25,Serie A,2021,2021/2022,8
+462,27101,AC Milan,Marko Lazetić,18,Centre-Forward,Red Star,€4.00m,in,Winter,4,Serie A,2021,2021/2022,108
+463,27108,Atalanta BC,Valentin Mihaila,21,Left Winger,Parma,Loan fee:€500Th.,in,Winter,0.5,Serie A,2021,2021/2022,27
+464,27121,Juventus FC,Dušan Vlahović,22,Centre-Forward,Fiorentina,€81.60m,in,Winter,81.6,Serie A,2021,2021/2022,161
+465,27122,Juventus FC,Denis Zakaria,25,Defensive Midfield,Bor. M'gladbach,€8.60m,in,Winter,8.6,Serie A,2021,2021/2022,139
+466,27123,Juventus FC,Federico Gatti,23,Centre-Back,Frosinone,€5.40m,in,Winter,5.4,Serie A,2021,2021/2022,116
+467,27131,SSC Napoli,Axel Tuanzebe,24,Centre-Back,Man Utd,Loan fee:€600Th.,in,Winter,0.6,Serie A,2021,2021/2022,39
+468,27137,SS Lazio,Jovane Cabral,23,Left Winger,Sporting CP,Loan fee:€300Th.,in,Winter,0.3,Serie A,2021,2021/2022,12
+469,27150,AS Roma,Sérgio Oliveira,29,Central Midfield,FC Porto,Loan fee:€1.00m,in,Winter,1,Serie A,2021,2021/2022,50
+470,27151,AS Roma,Ainsley Maitland-Niles,24,Right Midfield,Arsenal,Loan fee:€500Th.,in,Winter,0.5,Serie A,2021,2021/2022,27
+471,27160,US Sassuolo,Luca Moro,21,Centre-Forward,Padova,€3.00m,in,Winter,3,Serie A,2021,2021/2022,90
+472,27161,US Sassuolo,Emil Konradsen Ceide,20,Left Winger,Rosenborg,Loan fee:€500Th.,in,Winter,0.5,Serie A,2021,2021/2022,27
+473,27169,UC Sampdoria,Vladyslav Supryaga,21,Centre-Forward,Dynamo Kyiv,Loan fee:€500Th.,in,Winter,0.5,Serie A,2021,2021/2022,27
+474,27195,Genoa CFC,Kelvin Yeboah,21,Centre-Forward,Sturm Graz,€6.50m,in,Winter,6.5,Serie A,2021,2021/2022,129
+475,27196,Genoa CFC,Silvan Hefti,24,Right-Back,BSC Young Boys,€5.00m,in,Winter,5,Serie A,2021,2021/2022,113
+476,27197,Genoa CFC,Morten Frendrup,20,Central Midfield,Bröndby IF,€3.70m,in,Winter,3.7,Serie A,2021,2021/2022,106
+477,27198,Genoa CFC,Johan Vásquez,23,Centre-Back,UNAM Pumas,€3.50m,in,Winter,3.5,Serie A,2021,2021/2022,101
+478,27199,Genoa CFC,Roberto Piccoli,20,Centre-Forward,Atalanta BC,Loan fee:€1.80m,in,Winter,1.8,Serie A,2021,2021/2022,67
+479,27200,Genoa CFC,Albert Gudmundsson,24,Right Winger,AZ Alkmaar,€1.20m,in,Winter,1.2,Serie A,2021,2021/2022,57
+480,27221,Bologna FC 1909,Denso Kasius,19,Right-Back,Utrecht U21,€3.00m,in,Winter,3,Serie A,2021,2021/2022,90
+481,27238,ACF Fiorentina,Jonathan Ikoné,23,Right Winger,LOSC Lille,€14.00m,in,Winter,14,Serie A,2021,2021/2022,146
+482,27239,ACF Fiorentina,Arthur Cabral,23,Centre-Forward,FC Basel,€14.00m,in,Winter,14,Serie A,2021,2021/2022,146
+483,27249,Cagliari Calcio,Matteo Lovato,21,Centre-Back,Atalanta BC,Loan fee:€500Th.,in,Winter,0.5,Serie A,2021,2021/2022,27
+484,27250,Cagliari Calcio,Edoardo Goldaniga,28,Centre-Back,Sassuolo,€400Th.,in,Winter,0.4,Serie A,2021,2021/2022,15
+485,27258,Torino FC,Demba Seck,20,Right Winger,SPAL,€3.50m,in,Winter,3.5,Serie A,2021,2021/2022,101
+486,27259,Torino FC,Samuele Ricci,20,Defensive Midfield,FC Empoli,Loan fee:€1.00m,in,Winter,1,Serie A,2021,2021/2022,50
+487,27279,US Salernitana 1919,Éderson,22,Central Midfield,Corinthians,€6.50m,in,Winter,6.5,Serie A,2021,2021/2022,129
+488,27280,US Salernitana 1919,Simy,29,Centre-Forward,Crotone,€3.50m,in,Winter,3.5,Serie A,2021,2021/2022,101
+489,27281,US Salernitana 1919,Mikael,22,Centre-Forward,Sport Recife,Loan fee:€800Th.,in,Winter,0.8,Serie A,2021,2021/2022,42
+490,27282,US Salernitana 1919,Emil Bohinen,22,Central Midfield,CSKA Moscow,Loan fee:€250Th.,in,Winter,0.25,Serie A,2021,2021/2022,8
+491,27301,Venezia FC,Michaël Cuisance,22,Central Midfield,Bayern Munich,€4.00m,in,Winter,4,Serie A,2021,2021/2022,108
+492,27302,Venezia FC,Maximilian Ullmann,25,Left-Back,Rapid Vienna,€500Th.,in,Winter,0.5,Serie A,2021,2021/2022,27
+493,27303,Venezia FC,Jean-Pierre Nsame,28,Centre-Forward,BSC Young Boys,Loan fee:€500Th.,in,Winter,0.5,Serie A,2021,2021/2022,27

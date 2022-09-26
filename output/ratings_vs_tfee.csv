@@ -1,0 +1,57 @@
+,player,value,Unnamed: 0,index,club_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season,player_id,Squad,Normal,Scaled,Normalized,total
+0,Aaron Ramsdale,0.3454996569380097,92,22294,Arsenal FC,23.0,Goalkeeper,Sheff Utd,€28.00m,in,Summer,28.0,Premier League,2021,2021/2022,79,Arsenal FC,3,12,0.30000000000000004,0.6454996569380098
+1,Adam Armstrong,0.11401041608564727,141,22676,Southampton FC,24.0,Centre-Forward,Blackburn,€17.70m,in,Summer,17.7,Premier League,2021,2021/2022,69,Southampton FC,0,9,0.22400000000000003,0.3380104160856473
+2,Albert Sambi Lokonga,0.1423794005183575,94,22296,Arsenal FC,21.0,Central Midfield,RSC Anderlecht,€17.50m,in,Summer,17.5,Premier League,2021,2021/2022,66,Arsenal FC,3,12,0.30000000000000004,0.44237940051835756
+3,Alphonse Areola,0.010888017938576031,157,22771,West Ham United,28.0,Goalkeeper,Paris SG,Loan fee:€2.00m,in,Summer,2.0,Premier League,2021,2021/2022,10,West Ham United,-1,8,0.2,0.21088801793857603
+4,Angus Gunn,0.09827758020909722,137,22631,Norwich City,25.0,Goalkeeper,Southampton,€5.85m,in,Summer,5.85,Premier League,2021,2021/2022,31,Norwich City,-9,0,0.0,0.09827758020909722
+5,Ben Gibson,0.289533115879778,135,22629,Norwich City,28.0,Centre-Back,Burnley,€9.30m,in,Summer,9.3,Premier League,2021,2021/2022,41,Norwich City,-9,0,0.0,0.289533115879778
+6,Ben White,0.30543987648638055,90,22292,Arsenal FC,23.0,Centre-Back,Brighton,€58.50m,in,Summer,58.5,Premier League,2021,2021/2022,96,Arsenal FC,3,12,0.30000000000000004,0.6054398764863806
+7,Boubakary Soumaré,0.1326700808354101,124,22520,Leicester City,22.0,Defensive Midfield,LOSC Lille,€20.00m,in,Summer,20.0,Premier League,2021,2021/2022,73,Leicester City,-3,6,0.15200000000000002,0.2846700808354101
+8,Christos Tzolis,0.04681295347173014,132,22626,Norwich City,19.0,Left Winger,PAOK Salonika,€11.00m,in,Summer,11.0,Premier League,2021,2021/2022,49,Norwich City,-9,0,0.0,0.04681295347173014
+9,Connor Roberts,0.17311419366561118,110,22402,Burnley FC,25.0,Right-Back,Swansea,€2.90m,in,Summer,2.9,Premier League,2021,2021/2022,14,Burnley FC,-9,0,0.0,0.17311419366561118
+10,Craig Dawson,0.3066641721893354,156,22770,West Ham United,31.0,Centre-Back,Watford,€2.30m,in,Summer,2.3,Premier League,2021,2021/2022,13,West Ham United,-1,8,0.2,0.5066641721893355
+11,Cristiano Ronaldo,0.28142691457179325,130,22588,Manchester United,36.0,Centre-Forward,Juventus,€15.00m,in,Summer,15.0,Premier League,2021,2021/2022,58,Manchester United,-4,5,0.124,0.40542691457179325
+12,Daniel James,0.23380285744824883,119,22495,Leeds United,23.0,Right Winger,Man Utd,€29.10m,in,Summer,29.1,Premier League,2021,2021/2022,80,Leeds United,-8,1,0.024,0.2578028574482488
+13,Danny Ings,0.20849881303692044,98,22317,Aston Villa,29.0,Centre-Forward,Southampton,€29.42m,in,Summer,29.42,Premier League,2021,2021/2022,82,Aston Villa,-3,6,0.15200000000000002,0.36049881303692044
+14,Demarai Gray,0.27506951454113776,118,22474,Everton FC,25.0,Left Winger,Bay. Leverkusen,€2.00m,in,Summer,2.0,Premier League,2021,2021/2022,10,Everton FC,-6,3,0.07600000000000001,0.3510695145411378
+15,Emmanuel Dennis,0.3276320620555915,149,22722,Watford FC,23.0,Centre-Forward,Club Brugge,€4.00m,in,Summer,4.0,Premier League,2021,2021/2022,22,Watford FC,-9,0,0.0,0.3276320620555915
+16,Enock Mwepu,0.1522560617881105,103,22361,Brighton & Hove Albion,23.0,Central Midfield,RB Salzburg,€23.00m,in,Summer,23.0,Premier League,2021,2021/2022,74,Brighton & Hove Albion,7,16,0.4,0.5522560617881105
+17,Francisco Trincão,0.170948113144462,160,22783,Wolverhampton Wanderers,21.0,Right Winger,Barcelona,Loan fee:€6.00m,in,Summer,6.0,Premier League,2021,2021/2022,33,Wolverhampton Wanderers,3,12,0.30000000000000004,0.47094811314446205
+18,Frank Onyeka,0.1091953987614852,101,22342,Brentford FC,23.0,Central Midfield,FC Midtjylland,€10.00m,in,Summer,10.0,Premier League,2021,2021/2022,45,Brentford FC,1,10,0.252,0.3611953987614852
+19,Ibrahima Konaté,0.1296199128920654,126,22534,Liverpool FC,22.0,Centre-Back,RB Leipzig,€40.00m,in,Summer,40.0,Premier League,2021,2021/2022,92,Liverpool FC,1,10,0.252,0.3816199128920654
+20,Jack Grealish,0.30624967054962965,127,22556,Manchester City,25.0,Left Winger,Aston Villa,€117.50m,in,Summer,117.5,Premier League,2021,2021/2022,99,Manchester City,0,9,0.22400000000000003,0.5302496705496297
+21,Jack Harrison,0.3641543015911433,121,22497,Leeds United,24.0,Left Winger,Man City,€12.80m,in,Summer,12.8,Premier League,2021,2021/2022,54,Leeds United,-8,1,0.024,0.38815430159114334
+22,Jadon Sancho,0.24398576370685562,128,22586,Manchester United,21.0,Left Winger,Bor. Dortmund,€85.00m,in,Summer,85.0,Premier League,2021,2021/2022,97,Manchester United,-4,5,0.124,0.36798576370685565
+23,Jannik Vestergaard,0.08197007381256718,125,22521,Leicester City,29.0,Centre-Back,Southampton,€17.60m,in,Summer,17.6,Premier League,2021,2021/2022,68,Leicester City,-3,6,0.15200000000000002,0.2339700738125672
+24,Joachim Andersen,0.340820122028094,114,22453,Crystal Palace,25.0,Centre-Back,Olympique Lyon,€17.50m,in,Summer,17.5,Premier League,2021,2021/2022,66,Crystal Palace,2,11,0.27599999999999997,0.616820122028094
+25,Joe Willock,0.2180695218414667,131,22613,Newcastle United,21.0,Central Midfield,Arsenal,€29.40m,in,Summer,29.4,Premier League,2021,2021/2022,81,Newcastle United,1,10,0.252,0.47006952184146666
+26,Josh Sargent,0.17933166605703607,134,22628,Norwich City,21.0,Centre-Forward,Werder Bremen,€9.50m,in,Summer,9.5,Premier League,2021,2021/2022,43,Norwich City,-9,0,0.0,0.17933166605703607
+27,José Sá,0.41850300982873545,159,22782,Wolverhampton Wanderers,28.0,Goalkeeper,Olympiacos,€8.00m,in,Summer,8.0,Premier League,2021,2021/2022,39,Wolverhampton Wanderers,3,12,0.30000000000000004,0.7185030098287355
+28,Junior Firpo,0.21983626985073243,120,22496,Leeds United,24.0,Left-Back,Barcelona,€15.00m,in,Summer,15.0,Premier League,2021,2021/2022,58,Leeds United,-8,1,0.024,0.24383626985073242
+29,Kristoffer Ajer,0.22171487893045283,99,22340,Brentford FC,23.0,Centre-Back,Celtic,€15.70m,in,Summer,15.7,Premier League,2021,2021/2022,61,Brentford FC,1,10,0.252,0.47371487893045283
+30,Kristoffer Klaesson,0.008159794928032723,122,22498,Leeds United,20.0,Goalkeeper,Vålerenga,€2.00m,in,Summer,2.0,Premier League,2021,2021/2022,10,Leeds United,-8,1,0.024,0.032159794928032726
+31,Kurt Zouma,0.2223448682061345,153,22767,West Ham United,26.0,Centre-Back,Chelsea,€35.00m,in,Summer,35.0,Premier League,2021,2021/2022,89,West Ham United,-1,8,0.2,0.4223448682061345
+32,Leon Bailey,0.09610073989620074,97,22316,Aston Villa,23.0,Left Winger,Bay. Leverkusen,€32.00m,in,Summer,32.0,Premier League,2021,2021/2022,88,Aston Villa,-3,6,0.15200000000000002,0.24810073989620077
+33,Lyanco,0.12919371289135562,143,22678,Southampton FC,24.0,Centre-Back,Torino,€7.50m,in,Summer,7.5,Premier League,2021,2021/2022,36,Southampton FC,0,9,0.22400000000000003,0.35319371289135565
+34,Marc Cucurella,0.4796001102113563,104,22362,Brighton & Hove Albion,23.0,Left-Back,Getafe,€18.00m,in,Summer,18.0,Premier League,2021,2021/2022,70,Brighton & Hove Albion,7,16,0.4,0.8796001102113563
+35,Marc Guéhi,0.33627772470550443,113,22452,Crystal Palace,21.0,Centre-Back,Chelsea U23,€23.34m,in,Summer,23.34,Premier League,2021,2021/2022,75,Crystal Palace,2,11,0.27599999999999997,0.6122777247055045
+36,Martin Ødegaard,0.42537256880837043,91,22293,Arsenal FC,22.0,Attacking Midfield,Real Madrid,€35.00m,in,Summer,35.0,Premier League,2021,2021/2022,89,Arsenal FC,3,12,0.30000000000000004,0.7253725688083705
+37,Mathias Normann,0.167811836246995,140,22634,Norwich City,25.0,Defensive Midfield,Rostov,Loan fee:€2.00m,in,Summer,2.0,Premier League,2021,2021/2022,10,Norwich City,-9,0,0.0,0.167811836246995
+38,Maxwel Cornet,0.17995479828554406,108,22400,Burnley FC,24.0,Left Winger,Olympique Lyon,€15.00m,in,Summer,15.0,Premier League,2021,2021/2022,58,Burnley FC,-9,0,0.0,0.17995479828554406
+39,Michael Olise,0.1949337907727216,116,22455,Crystal Palace,19.0,Right Midfield,Reading,€9.30m,in,Summer,9.3,Premier League,2021,2021/2022,41,Crystal Palace,2,11,0.27599999999999997,0.47093379077272157
+40,Milot Rashica,0.24686523985839515,133,22627,Norwich City,25.0,Right Winger,Werder Bremen,€11.00m,in,Summer,11.0,Premier League,2021,2021/2022,49,Norwich City,-9,0,0.0,0.24686523985839515
+41,Moussa Sissoko,0.32893499683832766,150,22723,Watford FC,32.0,Central Midfield,Spurs,€3.50m,in,Summer,3.5,Premier League,2021,2021/2022,18,Watford FC,-9,0,0.0,0.32893499683832766
+42,Nathan Collins,0.2300726429851044,109,22401,Burnley FC,20.0,Centre-Back,Stoke City,€14.00m,in,Summer,14.0,Premier League,2021,2021/2022,55,Burnley FC,-9,0,0.0,0.2300726429851044
+43,Nuno Tavares,0.13605491681802323,95,22297,Arsenal FC,21.0,Left-Back,Benfica,€8.00m,in,Summer,8.0,Premier League,2021,2021/2022,39,Arsenal FC,3,12,0.30000000000000004,0.4360549168180233
+44,Ozan Kabak,0.10446305706456686,138,22632,Norwich City,21.0,Centre-Back,FC Schalke 04,Loan fee:€4.00m,in,Summer,4.0,Premier League,2021,2021/2022,22,Norwich City,-9,0,0.0,0.10446305706456686
+45,Ozan Tufan,0.02851759377827835,151,22724,Watford FC,26.0,Central Midfield,Fenerbahce,Loan fee:€1.00m,in,Summer,1.0,Premier League,2021,2021/2022,3,Watford FC,-9,0,0.0,0.02851759377827835
+46,Patson Daka,0.14838921896517807,123,22519,Leicester City,22.0,Centre-Forward,RB Salzburg,€30.00m,in,Summer,30.0,Premier League,2021,2021/2022,85,Leicester City,-3,6,0.15200000000000002,0.3003892189651781
+47,Pierre Lees-Melou,0.2865183035097901,139,22633,Norwich City,28.0,Central Midfield,OGC Nice,€3.90m,in,Summer,3.9,Premier League,2021,2021/2022,20,Norwich City,-9,0,0.0,0.2865183035097901
+48,Raphaël Varane,0.21458986355915785,129,22587,Manchester United,28.0,Centre-Back,Real Madrid,€40.00m,in,Summer,40.0,Premier League,2021,2021/2022,92,Manchester United,-4,5,0.124,0.3385898635591579
+49,Romain Perraud,0.18889663478331883,142,22677,Southampton FC,23.0,Left-Back,Stade Brestois,€12.00m,in,Summer,12.0,Premier League,2021,2021/2022,53,Southampton FC,0,9,0.22400000000000003,0.41289663478331884
+50,Romelu Lukaku,0.1712634564237291,111,22411,Chelsea FC,28.0,Centre-Forward,Inter,€113.00m,in,Summer,113.0,Premier League,2021,2021/2022,98,Chelsea FC,1,10,0.252,0.4232634564237291
+51,Saúl Ñíguez,0.0631765118182873,112,22412,Chelsea FC,26.0,Central Midfield,Atlético Madrid,Loan fee:€5.00m,in,Summer,5.0,Premier League,2021,2021/2022,26,Chelsea FC,1,10,0.252,0.3151765118182873
+52,Takehiro Tomiyasu,0.19972555581798718,93,22295,Arsenal FC,22.0,Right-Back,Bologna,€18.60m,in,Summer,18.6,Premier League,2021,2021/2022,71,Arsenal FC,3,12,0.30000000000000004,0.4997255558179872
+53,Will Hughes,0.12217700283989105,117,22456,Crystal Palace,26.0,Central Midfield,Watford,€7.00m,in,Summer,7.0,Premier League,2021,2021/2022,34,Crystal Palace,2,11,0.27599999999999997,0.398177002839891
+54,Yoane Wissa,0.12088862013384828,100,22341,Brentford FC,24.0,Left Winger,FC Lorient,€10.00m,in,Summer,10.0,Premier League,2021,2021/2022,45,Brentford FC,1,10,0.252,0.37288862013384827
+55,Álvaro Fernández,0.12953027166776104,102,22343,Brentford FC,23.0,Goalkeeper,SD Huesca,Loan fee:€1.00m,in,Summer,1.0,Premier League,2021,2021/2022,3,Brentford FC,1,10,0.252,0.38153027166776105
